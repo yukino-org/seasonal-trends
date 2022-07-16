@@ -1,0 +1,35 @@
+name: Generate Data
+
+on:
+    schedule:
+        - cron: "0 0 * * *"
+    workflow_dispatch:
+
+env:
+    GIT_CONFIG_NAME: "[Automated] Yui"
+    GIT_CONFIG_EMAIL: yukino-org@users.noreply.github.com
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - uses: actions/checkout@v3
+            - uses: actions/setup-node@v3
+              with:
+                  node-version: 17
+                  cache: "npm"
+            - run: npm ci
+
+            - name: 🏗️ Generate data
+              run: npm start
+
+            - name: 🚀 Push data
+              uses: zyrouge/gh-push-action@v1.0.1
+              with:
+                  directory: dist
+                  branch: data
+                  local-username: ${{ env.GIT_CONFIG_NAME }}
+                  local-email: ${{ env.GIT_CONFIG_EMAIL }}
+                  commit-message: "[automated] update data (${{ github.sha }})"
+                  allow-empty-commit: true
