@@ -11,7 +11,7 @@ Generated files can be found in [data](https://github.com/yukino-org/seasonal-tr
 ## Credits
 
 -   [Kitsu.io](https://kitsu.io) - Provides all the anime metadata.
--   [wopian/kitsu-season-trends](https://github.com/wopian/kitsu-season-trends/) and [Season.moe](https://season.moe/) - Tracks season trends using Kitsu.
+-   [wopian/kitsu-season-trends](https://github.com/wopian/kitsu-season-trends/) & [Season.moe](https://season.moe/) - Tracks season trends using Kitsu.
 
 ## License
 
