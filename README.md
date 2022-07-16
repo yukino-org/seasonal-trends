@@ -1,6 +1,6 @@
 # Seasonal Trends
 
-List of trending animes of current season based on [season.moe](https://season.moe/).
+📈 List of trending animes of current season based on [season.moe](https://season.moe/).
 
 [![Generate Data](https://github.com/yukino-org/seasonal-trends/actions/workflows/generate.yml/badge.svg)](https://github.com/yukino-org/seasonal-trends/actions/workflows/generate.yml)
 
