@@ -6,8 +6,9 @@ import {
     sortSeasonMoeData,
     transpileSeasonMoeDataFileDataItem,
     ISeasonMoeDataFileDataItem,
+    IKitsuAnime,
 } from "./kitsu";
-import { getSeasonFromDate, recreateDir, Seasons } from "./utils";
+import { capitalize, getSeasonFromDate, recreateDir, Seasons } from "./utils";
 
 const outputDir = path.join(__dirname, "../dist");
 
@@ -26,6 +27,10 @@ const start = async () => {
         ["upvotes", "p"],
         ["rated", "r"],
         ["users", "u"],
+    ];
+    const summary: string[] = [
+        `# Trends of ${capitalize(Seasons[season])} ${date.getFullYear()}`,
+        `> Last updated at ${date.toLocaleString()}`
     ];
 
     await recreateDir(outputDir);
@@ -58,7 +63,18 @@ const start = async () => {
                 updatedAt,
             })
         );
+        summary.push(getKitsuAnimeMd(name, animes));
     }
+
+    await fs.writeFile(path.join(outputDir, "README.md"), summary.join("\n\n"));
 };
 
 start();
+
+function getKitsuAnimeMd(name: string, animes: IKitsuAnime[]) {
+    return `
+## ${capitalize(name)}
+
+${animes.map((x, i) => `${i + 1}. [${x.attributes.canonicalTitle}](https://kitsu.io/anime/${x.attributes.slug})`).join("\n")}
+    `.trim();
+}
