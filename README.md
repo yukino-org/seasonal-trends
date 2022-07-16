@@ -2,6 +2,8 @@
 
 📈 List of trending animes of current season based on [season.moe](https://season.moe/).
 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Generate Data](https://github.com/yukino-org/seasonal-trends/actions/workflows/generate.yml/badge.svg)](https://github.com/yukino-org/seasonal-trends/actions/workflows/generate.yml)
 
 Generated files can be found in [data](https://github.com/yukino-org/seasonal-trends/tree/data) branch.
