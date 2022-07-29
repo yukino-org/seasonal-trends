@@ -1,6 +1,6 @@
 # Trends of Summer 2022
 
-> Last updated at 7/28/2022, 1:43:23 AM
+> Last updated at 7/29/2022, 1:51:35 AM
 
 ## Wilson
 
@@ -35,10 +35,10 @@
 3. [Yofukashi no Uta](https://kitsu.io/anime/yofukashi-no-uta)
 4. [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)](https://kitsu.io/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-zoku-hen)
 5. [Made in Abyss: Retsujitsu no Ougonkyou](https://kitsu.io/anime/made-in-abyss-retsujitsu-no-ougonkyou)
-6. [The Devil is a Part-Timer! 2](https://kitsu.io/anime/the-devil-is-a-part-timer-2)
-7. [Lycoris Recoil](https://kitsu.io/anime/lycoris-recoil)
-8. [Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu](https://kitsu.io/anime/kinsou-no-vermeil-gakeppuchi-majutshi-wa-saikyou-no-yakusai-to-mahou-sekai-wo-tsukisusumu)
-9. [Isekai Meikyuu de Harem wo](https://kitsu.io/anime/isekai-meikyuu-de-harem-wo)
+6. [Lycoris Recoil](https://kitsu.io/anime/lycoris-recoil)
+7. [The Devil is a Part-Timer! 2](https://kitsu.io/anime/the-devil-is-a-part-timer-2)
+8. [Isekai Meikyuu de Harem wo](https://kitsu.io/anime/isekai-meikyuu-de-harem-wo)
+9. [Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu](https://kitsu.io/anime/kinsou-no-vermeil-gakeppuchi-majutshi-wa-saikyou-no-yakusai-to-mahou-sekai-wo-tsukisusumu)
 10. [Isekai Ojisan](https://kitsu.io/anime/isekai-ojisan)
 
 ## Rated
