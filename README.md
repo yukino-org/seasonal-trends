@@ -1,6 +1,6 @@
 # Trends of Summer 2022
 
-> Last updated at 8/11/2022, 1:27:27 AM
+> Last updated at 8/12/2022, 1:38:59 AM
 
 ## Wilson
 
@@ -9,8 +9,8 @@
 3. [Yofukashi no Uta](https://kitsu.io/anime/yofukashi-no-uta)
 4. [JoJo no Kimyou na Bouken: Stone Ocean Part 2](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2)
 5. [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)](https://kitsu.io/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-zoku-hen)
-6. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv)
-7. [Lycoris Recoil](https://kitsu.io/anime/lycoris-recoil)
+6. [Lycoris Recoil](https://kitsu.io/anime/lycoris-recoil)
+7. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv)
 8. [Isekai Ojisan](https://kitsu.io/anime/isekai-ojisan)
 9. [Isekai Yakkyoku](https://kitsu.io/anime/isekai-yakkyoku)
 10. [Kumicho Musume to Sewagakari](https://kitsu.io/anime/kumicho-musume-to-sewagakari)
@@ -24,9 +24,9 @@
 5. [Lycoris Recoil](https://kitsu.io/anime/lycoris-recoil)
 6. [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)](https://kitsu.io/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-zoku-hen)
 7. [Isekai Ojisan](https://kitsu.io/anime/isekai-ojisan)
-8. [Isekai Yakkyoku](https://kitsu.io/anime/isekai-yakkyoku)
-9. [Kumicho Musume to Sewagakari](https://kitsu.io/anime/kumicho-musume-to-sewagakari)
-10. [JoJo no Kimyou na Bouken: Stone Ocean Part 2](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2)
+8. [JoJo no Kimyou na Bouken: Stone Ocean Part 2](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2)
+9. [Isekai Yakkyoku](https://kitsu.io/anime/isekai-yakkyoku)
+10. [Kumicho Musume to Sewagakari](https://kitsu.io/anime/kumicho-musume-to-sewagakari)
 
 ## Upvotes
 
@@ -39,7 +39,7 @@
 7. [The Devil is a Part-Timer! 2](https://kitsu.io/anime/the-devil-is-a-part-timer-2)
 8. [Isekai Meikyuu de Harem wo](https://kitsu.io/anime/isekai-meikyuu-de-harem-wo)
 9. [Isekai Ojisan](https://kitsu.io/anime/isekai-ojisan)
-10. [Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu](https://kitsu.io/anime/kinsou-no-vermeil-gakeppuchi-majutshi-wa-saikyou-no-yakusai-to-mahou-sekai-wo-tsukisusumu)
+10. [Mamahaha no Tsurego ga Moto Kano datta](https://kitsu.io/anime/mamahaha-no-tsurego-ga-moto-kano-datta)
 
 ## Rated
 
