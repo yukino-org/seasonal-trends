@@ -1,6 +1,6 @@
 # Trends of Summer 2022
 
-> Last updated at 8/16/2022, 1:52:56 AM
+> Last updated at 8/17/2022, 1:58:50 AM
 
 ## Wilson
 
@@ -8,12 +8,12 @@
 2. [Made in Abyss: Retsujitsu no Ougonkyou](https://kitsu.io/anime/made-in-abyss-retsujitsu-no-ougonkyou)
 3. [Yofukashi no Uta](https://kitsu.io/anime/yofukashi-no-uta)
 4. [JoJo no Kimyou na Bouken: Stone Ocean Part 2](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2)
-5. [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)](https://kitsu.io/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-zoku-hen)
-6. [Lycoris Recoil](https://kitsu.io/anime/lycoris-recoil)
+5. [Lycoris Recoil](https://kitsu.io/anime/lycoris-recoil)
+6. [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)](https://kitsu.io/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-zoku-hen)
 7. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv)
 8. [Isekai Ojisan](https://kitsu.io/anime/isekai-ojisan)
-9. [Isekai Yakkyoku](https://kitsu.io/anime/isekai-yakkyoku)
-10. [Kumicho Musume to Sewagakari](https://kitsu.io/anime/kumicho-musume-to-sewagakari)
+9. [Kumicho Musume to Sewagakari](https://kitsu.io/anime/kumicho-musume-to-sewagakari)
+10. [Isekai Yakkyoku](https://kitsu.io/anime/isekai-yakkyoku)
 
 ## Laplace
 
@@ -25,8 +25,8 @@
 6. [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)](https://kitsu.io/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-zoku-hen)
 7. [Isekai Ojisan](https://kitsu.io/anime/isekai-ojisan)
 8. [JoJo no Kimyou na Bouken: Stone Ocean Part 2](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2)
-9. [Isekai Yakkyoku](https://kitsu.io/anime/isekai-yakkyoku)
-10. [Kumicho Musume to Sewagakari](https://kitsu.io/anime/kumicho-musume-to-sewagakari)
+9. [Kumicho Musume to Sewagakari](https://kitsu.io/anime/kumicho-musume-to-sewagakari)
+10. [Isekai Yakkyoku](https://kitsu.io/anime/isekai-yakkyoku)
 
 ## Upvotes
 
