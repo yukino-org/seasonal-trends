@@ -1,6 +1,6 @@
 # Trends of Summer 2022
 
-> Last updated at 8/22/2022, 1:46:56 AM
+> Last updated at 8/23/2022, 1:54:01 AM
 
 ## Wilson
 
@@ -12,8 +12,8 @@
 6. [JoJo no Kimyou na Bouken: Stone Ocean Part 2](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2)
 7. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv)
 8. [Isekai Ojisan](https://kitsu.io/anime/isekai-ojisan)
-9. [Kumicho Musume to Sewagakari](https://kitsu.io/anime/kumicho-musume-to-sewagakari)
-10. [Isekai Yakkyoku](https://kitsu.io/anime/isekai-yakkyoku)
+9. [Isekai Yakkyoku](https://kitsu.io/anime/isekai-yakkyoku)
+10. [Kumicho Musume to Sewagakari](https://kitsu.io/anime/kumicho-musume-to-sewagakari)
 
 ## Laplace
 
@@ -24,9 +24,9 @@
 5. [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)](https://kitsu.io/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-zoku-hen)
 6. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv)
 7. [Isekai Ojisan](https://kitsu.io/anime/isekai-ojisan)
-8. [Kumicho Musume to Sewagakari](https://kitsu.io/anime/kumicho-musume-to-sewagakari)
-9. [JoJo no Kimyou na Bouken: Stone Ocean Part 2](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2)
-10. [Isekai Yakkyoku](https://kitsu.io/anime/isekai-yakkyoku)
+8. [Isekai Yakkyoku](https://kitsu.io/anime/isekai-yakkyoku)
+9. [Kumicho Musume to Sewagakari](https://kitsu.io/anime/kumicho-musume-to-sewagakari)
+10. [JoJo no Kimyou na Bouken: Stone Ocean Part 2](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2)
 
 ## Upvotes
 
