@@ -1,6 +1,6 @@
 # Trends of Summer 2022
 
-> Last updated at 8/25/2022, 1:52:20 AM
+> Last updated at 8/26/2022, 1:56:24 AM
 
 ## Wilson
 
@@ -21,8 +21,8 @@
 2. [Overlord IV](https://kitsu.io/anime/overlord-iv)
 3. [Made in Abyss: Retsujitsu no Ougonkyou](https://kitsu.io/anime/made-in-abyss-retsujitsu-no-ougonkyou)
 4. [Lycoris Recoil](https://kitsu.io/anime/lycoris-recoil)
-5. [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)](https://kitsu.io/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-zoku-hen)
-6. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv)
+5. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv)
+6. [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)](https://kitsu.io/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-zoku-hen)
 7. [Isekai Ojisan](https://kitsu.io/anime/isekai-ojisan)
 8. [Isekai Yakkyoku](https://kitsu.io/anime/isekai-yakkyoku)
 9. [Kumicho Musume to Sewagakari](https://kitsu.io/anime/kumicho-musume-to-sewagakari)
