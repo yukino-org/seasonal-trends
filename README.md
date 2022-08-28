@@ -1,6 +1,6 @@
 # Trends of Summer 2022
 
-> Last updated at 8/27/2022, 1:52:53 AM
+> Last updated at 8/28/2022, 2:00:36 AM
 
 ## Wilson
 
@@ -24,8 +24,8 @@
 5. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv)
 6. [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)](https://kitsu.io/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-zoku-hen)
 7. [Isekai Ojisan](https://kitsu.io/anime/isekai-ojisan)
-8. [JoJo no Kimyou na Bouken: Stone Ocean Part 2](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2)
-9. [Isekai Yakkyoku](https://kitsu.io/anime/isekai-yakkyoku)
+8. [Isekai Yakkyoku](https://kitsu.io/anime/isekai-yakkyoku)
+9. [JoJo no Kimyou na Bouken: Stone Ocean Part 2](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2)
 10. [Kumicho Musume to Sewagakari](https://kitsu.io/anime/kumicho-musume-to-sewagakari)
 
 ## Upvotes
