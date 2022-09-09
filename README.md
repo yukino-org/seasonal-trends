@@ -1,6 +1,6 @@
 # Trends of Summer 2022
 
-> Last updated at 9/8/2022, 1:56:18 AM
+> Last updated at 9/9/2022, 2:02:33 AM
 
 ## Wilson
 
@@ -19,8 +19,8 @@
 
 1. [Yofukashi no Uta](https://kitsu.io/anime/yofukashi-no-uta)
 2. [JoJo no Kimyou na Bouken: Stone Ocean Part 2](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2)
-3. [Overlord IV](https://kitsu.io/anime/overlord-iv)
-4. [Made in Abyss: Retsujitsu no Ougonkyou](https://kitsu.io/anime/made-in-abyss-retsujitsu-no-ougonkyou)
+3. [Made in Abyss: Retsujitsu no Ougonkyou](https://kitsu.io/anime/made-in-abyss-retsujitsu-no-ougonkyou)
+4. [Overlord IV](https://kitsu.io/anime/overlord-iv)
 5. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv)
 6. [Lycoris Recoil](https://kitsu.io/anime/lycoris-recoil)
 7. [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)](https://kitsu.io/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-zoku-hen)
@@ -39,7 +39,7 @@
 7. [The Devil is a Part-Timer! 2](https://kitsu.io/anime/the-devil-is-a-part-timer-2)
 8. [Isekai Meikyuu de Harem wo](https://kitsu.io/anime/isekai-meikyuu-de-harem-wo)
 9. [Isekai Ojisan](https://kitsu.io/anime/isekai-ojisan)
-10. [Mamahaha no Tsurego ga Moto Kano datta](https://kitsu.io/anime/mamahaha-no-tsurego-ga-moto-kano-datta)
+10. [JoJo no Kimyou na Bouken: Stone Ocean Part 2](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2)
 
 ## Rated
 
