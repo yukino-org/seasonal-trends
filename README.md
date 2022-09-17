@@ -1,21 +1,8 @@
 # Trends of Summer 2022
 
-> Last updated at 9/16/2022, 2:07:00 AM
+> Last updated at 9/17/2022, 1:50:46 AM
 
 ## Wilson
-
-1. [Yofukashi no Uta](https://kitsu.io/anime/yofukashi-no-uta)
-2. [JoJo no Kimyou na Bouken: Stone Ocean Part 2](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2)
-3. [Overlord IV](https://kitsu.io/anime/overlord-iv)
-4. [Made in Abyss: Retsujitsu no Ougonkyou](https://kitsu.io/anime/made-in-abyss-retsujitsu-no-ougonkyou)
-5. [Lycoris Recoil](https://kitsu.io/anime/lycoris-recoil)
-6. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv)
-7. [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)](https://kitsu.io/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-zoku-hen)
-8. [Isekai Yakkyoku](https://kitsu.io/anime/isekai-yakkyoku)
-9. [Isekai Ojisan](https://kitsu.io/anime/isekai-ojisan)
-10. [Kumicho Musume to Sewagakari](https://kitsu.io/anime/kumicho-musume-to-sewagakari)
-
-## Laplace
 
 1. [Yofukashi no Uta](https://kitsu.io/anime/yofukashi-no-uta)
 2. [JoJo no Kimyou na Bouken: Stone Ocean Part 2](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2)
@@ -28,14 +15,27 @@
 9. [Isekai Ojisan](https://kitsu.io/anime/isekai-ojisan)
 10. [Kumicho Musume to Sewagakari](https://kitsu.io/anime/kumicho-musume-to-sewagakari)
 
+## Laplace
+
+1. [JoJo no Kimyou na Bouken: Stone Ocean Part 2](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2)
+2. [Yofukashi no Uta](https://kitsu.io/anime/yofukashi-no-uta)
+3. [Made in Abyss: Retsujitsu no Ougonkyou](https://kitsu.io/anime/made-in-abyss-retsujitsu-no-ougonkyou)
+4. [Overlord IV](https://kitsu.io/anime/overlord-iv)
+5. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv)
+6. [Lycoris Recoil](https://kitsu.io/anime/lycoris-recoil)
+7. [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)](https://kitsu.io/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-zoku-hen)
+8. [Isekai Yakkyoku](https://kitsu.io/anime/isekai-yakkyoku)
+9. [Kumicho Musume to Sewagakari](https://kitsu.io/anime/kumicho-musume-to-sewagakari)
+10. [Isekai Ojisan](https://kitsu.io/anime/isekai-ojisan)
+
 ## Upvotes
 
 1. [Overlord IV](https://kitsu.io/anime/overlord-iv)
 2. [Yofukashi no Uta](https://kitsu.io/anime/yofukashi-no-uta)
 3. [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)](https://kitsu.io/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-zoku-hen)
 4. [Made in Abyss: Retsujitsu no Ougonkyou](https://kitsu.io/anime/made-in-abyss-retsujitsu-no-ougonkyou)
-5. [Lycoris Recoil](https://kitsu.io/anime/lycoris-recoil)
-6. [Kanojo, Okarishimasu 2nd Season](https://kitsu.io/anime/kanojo-okarishimasu-2nd-season)
+5. [Kanojo, Okarishimasu 2nd Season](https://kitsu.io/anime/kanojo-okarishimasu-2nd-season)
+6. [Lycoris Recoil](https://kitsu.io/anime/lycoris-recoil)
 7. [JoJo no Kimyou na Bouken: Stone Ocean Part 2](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2)
 8. [Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita](https://kitsu.io/anime/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita)
 9. [The Devil is a Part-Timer! 2](https://kitsu.io/anime/the-devil-is-a-part-timer-2)
