@@ -1,16 +1,16 @@
 # Trends of Autumn 2022
 
-> Last updated at 10/5/2022, 1:51:57 AM
+> Last updated at 10/6/2022, 1:44:50 AM
 
 ## Wilson
 
 1. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
 2. [SPY x FAMILY Part 2](https://kitsu.io/anime/spy-x-family-part-2)
 3. [Boku no Hero Academia 6](https://kitsu.io/anime/boku-no-hero-academia-6th-season)
-4. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
-5. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
-6. [KanColle: Itsuka Ano Umi de](https://kitsu.io/anime/kantai-collection-kancolle-2)
-7. [Uzaki-chan wa Asobitai! ω](https://kitsu.io/anime/uzaki-chan-wa-asobitai-2nd-season)
+4. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
+5. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
+6. [Uzaki-chan wa Asobitai! ω](https://kitsu.io/anime/uzaki-chan-wa-asobitai-2nd-season)
+7. [KanColle: Itsuka Ano Umi de](https://kitsu.io/anime/kantai-collection-kancolle-2)
 8. [Kidou Senshi Gundam: Suisei no Majo](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo)
 9. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
 10. [Kage no Jitsuryokusha ni Naritakute!](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute)
@@ -20,13 +20,13 @@
 1. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
 2. [SPY x FAMILY Part 2](https://kitsu.io/anime/spy-x-family-part-2)
 3. [Boku no Hero Academia 6](https://kitsu.io/anime/boku-no-hero-academia-6th-season)
-4. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
-5. [Uzaki-chan wa Asobitai! ω](https://kitsu.io/anime/uzaki-chan-wa-asobitai-2nd-season)
-6. [KanColle: Itsuka Ano Umi de](https://kitsu.io/anime/kantai-collection-kancolle-2)
-7. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
+4. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
+5. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
+6. [Uzaki-chan wa Asobitai! ω](https://kitsu.io/anime/uzaki-chan-wa-asobitai-2nd-season)
+7. [KanColle: Itsuka Ano Umi de](https://kitsu.io/anime/kantai-collection-kancolle-2)
 8. [Kidou Senshi Gundam: Suisei no Majo](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo)
-9. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
-10. [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://kitsu.io/anime/yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyoushu-no-nekomimi-shoujo-to-deau)
+9. [Kage no Jitsuryokusha ni Naritakute!](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute)
+10. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
 
 ## Upvotes
 
@@ -36,10 +36,10 @@
 4. [Boku no Hero Academia 6](https://kitsu.io/anime/boku-no-hero-academia-6th-season)
 5. [Uzaki-chan wa Asobitai! ω](https://kitsu.io/anime/uzaki-chan-wa-asobitai-2nd-season)
 6. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
-7. [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://kitsu.io/anime/yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyoushu-no-nekomimi-shoujo-to-deau)
+7. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
 8. [Kidou Senshi Gundam: Suisei no Majo](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo)
-9. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
-10. [Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta.](https://kitsu.io/anime/noumin-kanren-no-skill-bakka-agetetara-nazeka-tsuyoku-natta)
+9. [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://kitsu.io/anime/yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyoushu-no-nekomimi-shoujo-to-deau)
+10. [Kage no Jitsuryokusha ni Naritakute!](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute)
 
 ## Rated
 
