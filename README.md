@@ -1,32 +1,32 @@
 # Trends of Autumn 2022
 
-> Last updated at 10/12/2022, 2:08:36 AM
+> Last updated at 10/13/2022, 1:57:15 AM
 
 ## Wilson
 
 1. [SPY x FAMILY Part 2](https://kitsu.io/anime/spy-x-family-part-2)
-2. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
+2. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
 3. [Boku no Hero Academia 6](https://kitsu.io/anime/boku-no-hero-academia-6th-season)
-4. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
+4. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
 5. [Blue Lock](https://kitsu.io/anime/blue-lock)
 6. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
 7. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
 8. [KanColle: Itsuka Ano Umi de](https://kitsu.io/anime/kantai-collection-kancolle-2)
-9. [Uzaki-chan wa Asobitai! ω](https://kitsu.io/anime/uzaki-chan-wa-asobitai-2nd-season)
-10. [Kidou Senshi Gundam: Suisei no Majo](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo)
+9. [Kidou Senshi Gundam: Suisei no Majo](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo)
+10. [Uzaki-chan wa Asobitai! ω](https://kitsu.io/anime/uzaki-chan-wa-asobitai-2nd-season)
 
 ## Laplace
 
 1. [SPY x FAMILY Part 2](https://kitsu.io/anime/spy-x-family-part-2)
-2. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
+2. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
 3. [Boku no Hero Academia 6](https://kitsu.io/anime/boku-no-hero-academia-6th-season)
-4. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
+4. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
 5. [Blue Lock](https://kitsu.io/anime/blue-lock)
 6. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
 7. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
 8. [Uzaki-chan wa Asobitai! ω](https://kitsu.io/anime/uzaki-chan-wa-asobitai-2nd-season)
-9. [KanColle: Itsuka Ano Umi de](https://kitsu.io/anime/kantai-collection-kancolle-2)
-10. [Kidou Senshi Gundam: Suisei no Majo](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo)
+9. [Kidou Senshi Gundam: Suisei no Majo](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo)
+10. [KanColle: Itsuka Ano Umi de](https://kitsu.io/anime/kantai-collection-kancolle-2)
 
 ## Upvotes
 
