@@ -1,18 +1,18 @@
 # Trends of Autumn 2022
 
-> Last updated at 10/19/2022, 1:58:44 AM
+> Last updated at 10/20/2022, 1:58:26 AM
 
 ## Wilson
 
 1. [SPY x FAMILY Part 2](https://kitsu.io/anime/spy-x-family-part-2)
 2. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
 3. [Boku no Hero Academia 6](https://kitsu.io/anime/boku-no-hero-academia-6th-season)
-4. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
-5. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
+4. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
+5. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
 6. [Blue Lock](https://kitsu.io/anime/blue-lock)
 7. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
-8. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
-9. [Kidou Senshi Gundam: Suisei no Majo](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo)
+8. [Kidou Senshi Gundam: Suisei no Majo](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo)
+9. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
 10. [KanColle: Itsuka Ano Umi de](https://kitsu.io/anime/kantai-collection-kancolle-2)
 
 ## Laplace
@@ -24,8 +24,8 @@
 5. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
 6. [Blue Lock](https://kitsu.io/anime/blue-lock)
 7. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
-8. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
-9. [Kidou Senshi Gundam: Suisei no Majo](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo)
+8. [Kidou Senshi Gundam: Suisei no Majo](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo)
+9. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
 10. [Uzaki-chan wa Asobitai! ω](https://kitsu.io/anime/uzaki-chan-wa-asobitai-2nd-season)
 
 ## Upvotes
@@ -33,8 +33,8 @@
 1. [SPY x FAMILY Part 2](https://kitsu.io/anime/spy-x-family-part-2)
 2. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
 3. [Boku no Hero Academia 6](https://kitsu.io/anime/boku-no-hero-academia-6th-season)
-4. [KanColle: Itsuka Ano Umi de](https://kitsu.io/anime/kantai-collection-kancolle-2)
-5. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
+4. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
+5. [KanColle: Itsuka Ano Umi de](https://kitsu.io/anime/kantai-collection-kancolle-2)
 6. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
 7. [Blue Lock](https://kitsu.io/anime/blue-lock)
 8. [Kage no Jitsuryokusha ni Naritakute!](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute)
