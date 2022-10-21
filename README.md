@@ -1,6 +1,6 @@
 # Trends of Autumn 2022
 
-> Last updated at 10/20/2022, 1:58:26 AM
+> Last updated at 10/21/2022, 1:43:15 AM
 
 ## Wilson
 
@@ -11,8 +11,8 @@
 5. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
 6. [Blue Lock](https://kitsu.io/anime/blue-lock)
 7. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
-8. [Kidou Senshi Gundam: Suisei no Majo](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo)
-9. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
+8. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
+9. [Kidou Senshi Gundam: Suisei no Majo](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo)
 10. [KanColle: Itsuka Ano Umi de](https://kitsu.io/anime/kantai-collection-kancolle-2)
 
 ## Laplace
@@ -24,8 +24,8 @@
 5. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
 6. [Blue Lock](https://kitsu.io/anime/blue-lock)
 7. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
-8. [Kidou Senshi Gundam: Suisei no Majo](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo)
-9. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
+8. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
+9. [Kidou Senshi Gundam: Suisei no Majo](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo)
 10. [Uzaki-chan wa Asobitai! ω](https://kitsu.io/anime/uzaki-chan-wa-asobitai-2nd-season)
 
 ## Upvotes
