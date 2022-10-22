@@ -1,14 +1,14 @@
 # Trends of Autumn 2022
 
-> Last updated at 10/21/2022, 1:43:15 AM
+> Last updated at 10/22/2022, 1:51:33 AM
 
 ## Wilson
 
 1. [SPY x FAMILY Part 2](https://kitsu.io/anime/spy-x-family-part-2)
 2. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
 3. [Boku no Hero Academia 6](https://kitsu.io/anime/boku-no-hero-academia-6th-season)
-4. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
-5. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
+4. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
+5. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
 6. [Blue Lock](https://kitsu.io/anime/blue-lock)
 7. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
 8. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
@@ -20,8 +20,8 @@
 1. [SPY x FAMILY Part 2](https://kitsu.io/anime/spy-x-family-part-2)
 2. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
 3. [Boku no Hero Academia 6](https://kitsu.io/anime/boku-no-hero-academia-6th-season)
-4. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
-5. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
+4. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
+5. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
 6. [Blue Lock](https://kitsu.io/anime/blue-lock)
 7. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
 8. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
