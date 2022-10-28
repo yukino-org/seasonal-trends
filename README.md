@@ -1,6 +1,6 @@
 # Trends of Autumn 2022
 
-> Last updated at 10/27/2022, 1:45:32 AM
+> Last updated at 10/28/2022, 1:53:32 AM
 
 ## Wilson
 
@@ -13,7 +13,7 @@
 7. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
 8. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
 9. [Kidou Senshi Gundam: Suisei no Majo](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo)
-10. [Golden Kamuy 4th Season](https://kitsu.io/anime/golden-kamuy-4)
+10. [Kage no Jitsuryokusha ni Naritakute!](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute)
 
 ## Laplace
 
@@ -26,7 +26,7 @@
 7. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
 8. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
 9. [Kidou Senshi Gundam: Suisei no Majo](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo)
-10. [Golden Kamuy 4th Season](https://kitsu.io/anime/golden-kamuy-4)
+10. [Fumetsu no Anata e 2](https://kitsu.io/anime/fumetsu-no-anata-e-2)
 
 ## Upvotes
 
