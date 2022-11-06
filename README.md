@@ -1,6 +1,6 @@
 # Trends of Autumn 2022
 
-> Last updated at 11/5/2022, 1:40:54 AM
+> Last updated at 11/6/2022, 1:41:46 AM
 
 ## Wilson
 
@@ -25,8 +25,8 @@
 6. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
 7. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
 8. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
-9. [Kage no Jitsuryokusha ni Naritakute!](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute)
-10. [Fumetsu no Anata e 2](https://kitsu.io/anime/fumetsu-no-anata-e-2)
+9. [Fumetsu no Anata e 2](https://kitsu.io/anime/fumetsu-no-anata-e-2)
+10. [Kage no Jitsuryokusha ni Naritakute!](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute)
 
 ## Upvotes
 
@@ -35,8 +35,8 @@
 3. [Boku no Hero Academia 6](https://kitsu.io/anime/boku-no-hero-academia-6th-season)
 4. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
 5. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
-6. [KanColle: Itsuka Ano Umi de](https://kitsu.io/anime/kantai-collection-kancolle-2)
-7. [Blue Lock](https://kitsu.io/anime/blue-lock)
+6. [Blue Lock](https://kitsu.io/anime/blue-lock)
+7. [KanColle: Itsuka Ano Umi de](https://kitsu.io/anime/kantai-collection-kancolle-2)
 8. [Kage no Jitsuryokusha ni Naritakute!](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute)
 9. [Uzaki-chan wa Asobitai! ω](https://kitsu.io/anime/uzaki-chan-wa-asobitai-2nd-season)
 10. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
