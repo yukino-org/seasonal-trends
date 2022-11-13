@@ -1,6 +1,6 @@
 # Trends of Autumn 2022
 
-> Last updated at 11/12/2022, 1:37:21 AM
+> Last updated at 11/13/2022, 1:36:09 AM
 
 ## Wilson
 
@@ -38,8 +38,8 @@
 6. [Blue Lock](https://kitsu.io/anime/blue-lock)
 7. [KanColle: Itsuka Ano Umi de](https://kitsu.io/anime/kantai-collection-kancolle-2)
 8. [Kage no Jitsuryokusha ni Naritakute!](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute)
-9. [Uzaki-chan wa Asobitai! ω](https://kitsu.io/anime/uzaki-chan-wa-asobitai-2nd-season)
-10. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
+9. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
+10. [Uzaki-chan wa Asobitai! ω](https://kitsu.io/anime/uzaki-chan-wa-asobitai-2nd-season)
 
 ## Rated
 
