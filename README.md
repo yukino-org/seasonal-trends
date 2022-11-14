@@ -1,6 +1,6 @@
 # Trends of Autumn 2022
 
-> Last updated at 11/13/2022, 1:36:09 AM
+> Last updated at 11/14/2022, 1:27:23 AM
 
 ## Wilson
 
@@ -10,8 +10,8 @@
 4. [Blue Lock](https://kitsu.io/anime/blue-lock)
 5. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
 6. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
-7. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
-8. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
+7. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
+8. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
 9. [Kage no Jitsuryokusha ni Naritakute!](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute)
 10. [Fumetsu no Anata e 2](https://kitsu.io/anime/fumetsu-no-anata-e-2)
 
