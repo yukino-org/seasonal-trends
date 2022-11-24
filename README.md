@@ -1,6 +1,6 @@
 # Trends of Autumn 2022
 
-> Last updated at 11/23/2022, 1:19:11 AM
+> Last updated at 11/24/2022, 1:23:18 AM
 
 ## Wilson
 
@@ -21,8 +21,8 @@
 2. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
 3. [Boku no Hero Academia 6](https://kitsu.io/anime/boku-no-hero-academia-6th-season)
 4. [Blue Lock](https://kitsu.io/anime/blue-lock)
-5. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
-6. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
+5. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
+6. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
 7. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
 8. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
 9. [Fumetsu no Anata e 2](https://kitsu.io/anime/fumetsu-no-anata-e-2)
@@ -39,7 +39,7 @@
 7. [KanColle: Itsuka Ano Umi de](https://kitsu.io/anime/kantai-collection-kancolle-2)
 8. [Kage no Jitsuryokusha ni Naritakute!](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute)
 9. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
-10. [Uzaki-chan wa Asobitai! ω](https://kitsu.io/anime/uzaki-chan-wa-asobitai-2nd-season)
+10. [Fuufu Ijou, Koibito Miman.](https://kitsu.io/anime/fuufu-ijou-koibito-miman)
 
 ## Rated
 
