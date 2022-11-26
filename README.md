@@ -1,6 +1,6 @@
 # Trends of Autumn 2022
 
-> Last updated at 11/25/2022, 1:18:36 AM
+> Last updated at 11/26/2022, 1:14:57 AM
 
 ## Wilson
 
@@ -10,8 +10,8 @@
 4. [Blue Lock](https://kitsu.io/anime/blue-lock)
 5. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
 6. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
-7. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
-8. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
+7. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
+8. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
 9. [Kage no Jitsuryokusha ni Naritakute!](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute)
 10. [Fumetsu no Anata e 2](https://kitsu.io/anime/fumetsu-no-anata-e-2)
 
@@ -21,9 +21,9 @@
 2. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
 3. [Boku no Hero Academia 6](https://kitsu.io/anime/boku-no-hero-academia-6th-season)
 4. [Blue Lock](https://kitsu.io/anime/blue-lock)
-5. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
+5. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
 6. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
-7. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
+7. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
 8. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
 9. [Kage no Jitsuryokusha ni Naritakute!](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute)
 10. [Fumetsu no Anata e 2](https://kitsu.io/anime/fumetsu-no-anata-e-2)
