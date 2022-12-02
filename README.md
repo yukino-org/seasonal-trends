@@ -1,6 +1,6 @@
 # Trends of Autumn 2022
 
-> Last updated at 12/1/2022, 1:26:59 AM
+> Last updated at 12/2/2022, 1:13:27 AM
 
 ## Wilson
 
