@@ -1,17 +1,17 @@
 # Trends of Autumn 2022
 
-> Last updated at 12/5/2022, 1:12:01 AM
+> Last updated at 12/6/2022, 1:12:13 AM
 
 ## Wilson
 
 1. [SPY x FAMILY Part 2](https://kitsu.io/anime/spy-x-family-part-2)
 2. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
 3. [Boku no Hero Academia 6](https://kitsu.io/anime/boku-no-hero-academia-6th-season)
-4. [Blue Lock](https://kitsu.io/anime/blue-lock)
-5. [JoJo no Kimyou na Bouken: Stone Ocean Part 3](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3)
-6. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
-7. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
-8. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
+4. [JoJo no Kimyou na Bouken: Stone Ocean Part 3](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3)
+5. [Blue Lock](https://kitsu.io/anime/blue-lock)
+6. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
+7. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
+8. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
 9. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
 10. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
 
@@ -21,8 +21,8 @@
 2. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
 3. [Boku no Hero Academia 6](https://kitsu.io/anime/boku-no-hero-academia-6th-season)
 4. [JoJo no Kimyou na Bouken: Stone Ocean Part 3](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3)
-5. [Blue Lock](https://kitsu.io/anime/blue-lock)
-6. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
+5. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
+6. [Blue Lock](https://kitsu.io/anime/blue-lock)
 7. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
 8. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
 9. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
