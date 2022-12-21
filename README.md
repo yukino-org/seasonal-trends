@@ -1,6 +1,6 @@
 # Trends of Autumn 2022
 
-> Last updated at 12/20/2022, 1:11:15 AM
+> Last updated at 12/21/2022, 1:06:57 AM
 
 ## Wilson
 
@@ -21,8 +21,8 @@
 2. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
 3. [Boku no Hero Academia 6](https://kitsu.io/anime/boku-no-hero-academia-6th-season)
 4. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
-5. [JoJo no Kimyou na Bouken: Stone Ocean Part 3](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3)
-6. [Blue Lock](https://kitsu.io/anime/blue-lock)
+5. [Blue Lock](https://kitsu.io/anime/blue-lock)
+6. [JoJo no Kimyou na Bouken: Stone Ocean Part 3](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3)
 7. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
 8. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
 9. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
