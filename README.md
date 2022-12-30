@@ -1,6 +1,6 @@
 # Trends of Autumn 2022
 
-> Last updated at 12/29/2022, 1:11:18 AM
+> Last updated at 12/30/2022, 1:11:09 AM
 
 ## Wilson
 
@@ -18,13 +18,13 @@
 ## Laplace
 
 1. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
-2. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
-3. [SPY x FAMILY Part 2](https://kitsu.io/anime/spy-x-family-part-2)
+2. [SPY x FAMILY Part 2](https://kitsu.io/anime/spy-x-family-part-2)
+3. [Bocchi the Rock!](https://kitsu.io/anime/bocchi-the-rock)
 4. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
 5. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
 6. [Boku no Hero Academia 6](https://kitsu.io/anime/boku-no-hero-academia-6th-season)
-7. [JoJo no Kimyou na Bouken: Stone Ocean Part 3](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3)
-8. [Blue Lock](https://kitsu.io/anime/blue-lock)
+7. [Blue Lock](https://kitsu.io/anime/blue-lock)
+8. [JoJo no Kimyou na Bouken: Stone Ocean Part 3](https://kitsu.io/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3)
 9. [Mairimashita! Iruma-kun 3rd Season](https://kitsu.io/anime/mairimashita-iruma-kun-3rd-season)
 10. [Fumetsu no Anata e 2](https://kitsu.io/anime/fumetsu-no-anata-e-2)
 
