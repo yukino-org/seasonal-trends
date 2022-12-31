@@ -1,6 +1,6 @@
 # Trends of Autumn 2022
 
-> Last updated at 12/30/2022, 1:11:09 AM
+> Last updated at 12/31/2022, 1:08:35 AM
 
 ## Wilson
 
@@ -30,8 +30,8 @@
 
 ## Upvotes
 
-1. [SPY x FAMILY Part 2](https://kitsu.io/anime/spy-x-family-part-2)
-2. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
+1. [Chainsaw Man](https://kitsu.io/anime/chainsaw-man)
+2. [SPY x FAMILY Part 2](https://kitsu.io/anime/spy-x-family-part-2)
 3. [Boku no Hero Academia 6](https://kitsu.io/anime/boku-no-hero-academia-6th-season)
 4. [Mob Psycho 100 III](https://kitsu.io/anime/mob-psycho-100-iii)
 5. [BLEACH: Sennen Kessen-hen](https://kitsu.io/anime/bleach-sennen-kessen-hen)
