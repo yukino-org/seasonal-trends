@@ -1,6 +1,6 @@
 # Trends of Winter 2023
 
-> Last updated at 1/3/2023, 1:09:32 AM
+> Last updated at 1/4/2023, 1:11:46 AM
 
 ## Wilson
 
@@ -8,9 +8,9 @@
 2. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
 3. [Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu II](https://kitsu.io/anime/itai-no-wa-Iya-nano-de-bougyoryoku ni-kyokufuri-shitai-to-omoimasu-ii)
 4. [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou 2nd Season](https://kitsu.io/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e)
-5. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
-6. [Kubo-san wa Mob wo Yurusanai](https://kitsu.io/anime/kubo-san-wa-mob-wo-yurusanai)
-7. [Inu ni Nattara Suki na Hito ni Hirowareta](https://kitsu.io/anime/inu-ni-nattara-suki-na-hito-ni-hirowareta)
+5. [Inu ni Nattara Suki na Hito ni Hirowareta](https://kitsu.io/anime/inu-ni-nattara-suki-na-hito-ni-hirowareta)
+6. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
+7. [Kubo-san wa Mob wo Yurusanai](https://kitsu.io/anime/kubo-san-wa-mob-wo-yurusanai)
 8. [Spy Kyoushitsu](https://kitsu.io/anime/spy-kyoushitsu)
 9. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
 10. [High Card](https://kitsu.io/anime/high-card)
@@ -19,13 +19,13 @@
 
 1. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
 2. [Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu II](https://kitsu.io/anime/itai-no-wa-Iya-nano-de-bougyoryoku ni-kyokufuri-shitai-to-omoimasu-ii)
-3. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
-4. [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou 2nd Season](https://kitsu.io/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e)
-5. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
-6. [Kubo-san wa Mob wo Yurusanai](https://kitsu.io/anime/kubo-san-wa-mob-wo-yurusanai)
-7. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
-8. [Spy Kyoushitsu](https://kitsu.io/anime/spy-kyoushitsu)
-9. [Inu ni Nattara Suki na Hito ni Hirowareta](https://kitsu.io/anime/inu-ni-nattara-suki-na-hito-ni-hirowareta)
+3. [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou 2nd Season](https://kitsu.io/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e)
+4. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
+5. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
+6. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
+7. [Kubo-san wa Mob wo Yurusanai](https://kitsu.io/anime/kubo-san-wa-mob-wo-yurusanai)
+8. [Inu ni Nattara Suki na Hito ni Hirowareta](https://kitsu.io/anime/inu-ni-nattara-suki-na-hito-ni-hirowareta)
+9. [Spy Kyoushitsu](https://kitsu.io/anime/spy-kyoushitsu)
 10. [Kyokou Suiri 2nd Season](https://kitsu.io/anime/kyokou-suiri-2nd-season)
 
 ## Upvotes
@@ -38,8 +38,8 @@
 6. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
 7. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
 8. [Kubo-san wa Mob wo Yurusanai](https://kitsu.io/anime/kubo-san-wa-mob-wo-yurusanai)
-9. [Spy Kyoushitsu](https://kitsu.io/anime/spy-kyoushitsu)
-10. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou Yakusai-hen](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-IV-fuka-shou-yakusaihen)
+9. [Inu ni Nattara Suki na Hito ni Hirowareta](https://kitsu.io/anime/inu-ni-nattara-suki-na-hito-ni-hirowareta)
+10. [Spy Kyoushitsu](https://kitsu.io/anime/spy-kyoushitsu)
 
 ## Rated
 
