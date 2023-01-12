@@ -1,15 +1,15 @@
 # Trends of Winter 2023
 
-> Last updated at 1/11/2023, 1:13:04 AM
+> Last updated at 1/12/2023, 1:13:53 AM
 
 ## Wilson
 
 1. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
 2. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
 3. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou Yakusai-hen](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-IV-fuka-shou-yakusaihen)
-4. [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://kitsu.io/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e)
-5. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
-6. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
+4. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
+5. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
+6. [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://kitsu.io/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e)
 7. [Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu II](https://kitsu.io/anime/itai-no-wa-Iya-nano-de-bougyoryoku ni-kyokufuri-shitai-to-omoimasu-ii)
 8. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
 9. [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://kitsu.io/anime/tensei-oujo-to-tensai-reijou-no-mahou-kakumei)
@@ -20,9 +20,9 @@
 1. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
 2. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
 3. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou Yakusai-hen](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-IV-fuka-shou-yakusaihen)
-4. [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://kitsu.io/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e)
-5. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
-6. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
+4. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
+5. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
+6. [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://kitsu.io/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e)
 7. [Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu II](https://kitsu.io/anime/itai-no-wa-Iya-nano-de-bougyoryoku ni-kyokufuri-shitai-to-omoimasu-ii)
 8. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
 9. [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://kitsu.io/anime/tensei-oujo-to-tensai-reijou-no-mahou-kakumei)
@@ -30,15 +30,15 @@
 
 ## Upvotes
 
-1. [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://kitsu.io/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e)
-2. [Tomo-chan wa Onnanoko!](https://kitsu.io/anime/tomo-chan-wa-onna-no-ko)
-3. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
+1. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
+2. [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://kitsu.io/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e)
+3. [Tomo-chan wa Onnanoko!](https://kitsu.io/anime/tomo-chan-wa-onna-no-ko)
 4. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
 5. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
 6. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
 7. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
-8. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou Yakusai-hen](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-IV-fuka-shou-yakusaihen)
-9. [NieR:Automata Ver 1.1a](https://kitsu.io/anime/nierautomata-ver-1-1a)
+8. [NieR:Automata Ver 1.1a](https://kitsu.io/anime/nierautomata-ver-1-1a)
+9. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou Yakusai-hen](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-IV-fuka-shou-yakusaihen)
 10. [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://kitsu.io/anime/tensei-oujo-to-tensai-reijou-no-mahou-kakumei)
 
 ## Rated
