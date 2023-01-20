@@ -1,6 +1,6 @@
 # Trends of Winter 2023
 
-> Last updated at 1/19/2023, 1:14:31 AM
+> Last updated at 1/20/2023, 1:13:49 AM
 
 ## Wilson
 
@@ -11,9 +11,9 @@
 5. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
 6. [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://kitsu.io/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e)
 7. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
-8. [Buddy Daddies](https://kitsu.io/anime/buddy-daddies)
-9. [NieR:Automata Ver 1.1a](https://kitsu.io/anime/nierautomata-ver-1-1a)
-10. [Tomo-chan wa Onnanoko!](https://kitsu.io/anime/tomo-chan-wa-onna-no-ko)
+8. [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://kitsu.io/anime/tensei-oujo-to-tensai-reijou-no-mahou-kakumei)
+9. [Buddy Daddies](https://kitsu.io/anime/buddy-daddies)
+10. [NieR:Automata Ver 1.1a](https://kitsu.io/anime/nierautomata-ver-1-1a)
 
 ## Laplace
 
@@ -24,8 +24,8 @@
 5. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
 6. [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://kitsu.io/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e)
 7. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
-8. [Buddy Daddies](https://kitsu.io/anime/buddy-daddies)
-9. [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://kitsu.io/anime/tensei-oujo-to-tensai-reijou-no-mahou-kakumei)
+8. [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://kitsu.io/anime/tensei-oujo-to-tensai-reijou-no-mahou-kakumei)
+9. [Buddy Daddies](https://kitsu.io/anime/buddy-daddies)
 10. [NieR:Automata Ver 1.1a](https://kitsu.io/anime/nierautomata-ver-1-1a)
 
 ## Upvotes
