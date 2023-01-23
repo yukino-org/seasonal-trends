@@ -1,11 +1,11 @@
 # Trends of Winter 2023
 
-> Last updated at 1/22/2023, 1:15:50 AM
+> Last updated at 1/23/2023, 1:10:49 AM
 
 ## Wilson
 
-1. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
-2. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
+1. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
+2. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
 3. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
 4. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
 5. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou Yakusai-hen](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-IV-fuka-shou-yakusaihen)
@@ -17,24 +17,24 @@
 
 ## Laplace
 
-1. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
-2. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
+1. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
+2. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
 3. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
-4. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou Yakusai-hen](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-IV-fuka-shou-yakusaihen)
-5. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
+4. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
+5. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou Yakusai-hen](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-IV-fuka-shou-yakusaihen)
 6. [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://kitsu.io/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e)
 7. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
 8. [Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀](https://kitsu.io/anime/eiyuu-ou-bu-wo-kiwameru-tame-tenseisu-soshite-sekai-saikyou-no-minarai-kishi)
 9. [Buddy Daddies](https://kitsu.io/anime/buddy-daddies)
-10. [NieR:Automata Ver 1.1a](https://kitsu.io/anime/nierautomata-ver-1-1a)
+10. [Saikyou Onmyouji no Isekai Tenseiki: Geboku no Youkaidomo ni Kurabete Monster ga Yowai Sugirundaga](https://kitsu.io/anime/saikyou-onmyouji-no-isekai-tenseiki-geboku-no-youkaidomo-ni-kurabete-monster-ga-yowai-sugirundaga)
 
 ## Upvotes
 
 1. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
 2. [Tomo-chan wa Onnanoko!](https://kitsu.io/anime/tomo-chan-wa-onna-no-ko)
 3. [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://kitsu.io/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e)
-4. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
-5. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
+4. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
+5. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
 6. [NieR:Automata Ver 1.1a](https://kitsu.io/anime/nierautomata-ver-1-1a)
 7. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
 8. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
