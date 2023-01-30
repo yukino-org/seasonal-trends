@@ -1,12 +1,12 @@
 # Trends of Winter 2023
 
-> Last updated at 1/29/2023, 1:18:21 AM
+> Last updated at 1/30/2023, 1:09:21 AM
 
 ## Wilson
 
 1. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
-2. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
-3. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
+2. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
+3. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
 4. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou Yakusai-hen](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-IV-fuka-shou-yakusaihen)
 5. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
 6. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
@@ -18,15 +18,15 @@
 ## Laplace
 
 1. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
-2. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
-3. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
+2. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
+3. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
 4. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou Yakusai-hen](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-IV-fuka-shou-yakusaihen)
 5. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
 6. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
 7. [Buddy Daddies](https://kitsu.io/anime/buddy-daddies)
 8. [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://kitsu.io/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e)
 9. [Saikyou Onmyouji no Isekai Tenseiki: Geboku no Youkaidomo ni Kurabete Monster ga Yowai Sugirundaga](https://kitsu.io/anime/saikyou-onmyouji-no-isekai-tenseiki-geboku-no-youkaidomo-ni-kurabete-monster-ga-yowai-sugirundaga)
-10. [Kubo-san wa Mob wo Yurusanai](https://kitsu.io/anime/kubo-san-wa-mob-wo-yurusanai)
+10. [Tondemo Skill de Isekai Hourou Meshi](https://kitsu.io/anime/tondemo-skill-de-isekai-hourou-meshi)
 
 ## Upvotes
 
@@ -35,11 +35,11 @@
 3. [Tomo-chan wa Onnanoko!](https://kitsu.io/anime/tomo-chan-wa-onna-no-ko)
 4. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
 5. [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://kitsu.io/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e)
-6. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
-7. [NieR:Automata Ver 1.1a](https://kitsu.io/anime/nierautomata-ver-1-1a)
-8. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
-9. [Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu II](https://kitsu.io/anime/itai-no-wa-Iya-nano-de-bougyoryoku ni-kyokufuri-shitai-to-omoimasu-ii)
-10. [Buddy Daddies](https://kitsu.io/anime/buddy-daddies)
+6. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
+7. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
+8. [NieR:Automata Ver 1.1a](https://kitsu.io/anime/nierautomata-ver-1-1a)
+9. [Buddy Daddies](https://kitsu.io/anime/buddy-daddies)
+10. [Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu II](https://kitsu.io/anime/itai-no-wa-Iya-nano-de-bougyoryoku ni-kyokufuri-shitai-to-omoimasu-ii)
 
 ## Rated
 
