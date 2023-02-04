@@ -1,6 +1,6 @@
 # Trends of Winter 2023
 
-> Last updated at 2/3/2023, 1:16:35 AM
+> Last updated at 2/4/2023, 1:11:05 AM
 
 ## Wilson
 
@@ -35,10 +35,10 @@
 3. [Tomo-chan wa Onnanoko!](https://kitsu.io/anime/tomo-chan-wa-onna-no-ko)
 4. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
 5. [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://kitsu.io/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e)
-6. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
-7. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
-8. [NieR:Automata Ver 1.1a](https://kitsu.io/anime/nierautomata-ver-1-1a)
-9. [Buddy Daddies](https://kitsu.io/anime/buddy-daddies)
+6. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
+7. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
+8. [Buddy Daddies](https://kitsu.io/anime/buddy-daddies)
+9. [NieR:Automata Ver 1.1a](https://kitsu.io/anime/nierautomata-ver-1-1a)
 10. [Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu II](https://kitsu.io/anime/itai-no-wa-Iya-nano-de-bougyoryoku ni-kyokufuri-shitai-to-omoimasu-ii)
 
 ## Rated
