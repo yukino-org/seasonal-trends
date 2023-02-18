@@ -1,6 +1,6 @@
 # Trends of Winter 2023
 
-> Last updated at 2/17/2023, 1:19:04 AM
+> Last updated at 2/18/2023, 1:14:12 AM
 
 ## Wilson
 
