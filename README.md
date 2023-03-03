@@ -1,19 +1,19 @@
 # Trends of Winter 2023
 
-> Last updated at 3/2/2023, 1:20:47 AM
+> Last updated at 3/3/2023, 3:12:18 AM
 
 ## Wilson
 
 1. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
 2. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
 3. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
-4. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou Yakusai-hen](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-IV-fuka-shou-yakusaihen)
-5. [Buddy Daddies](https://kitsu.io/anime/buddy-daddies)
+4. [Buddy Daddies](https://kitsu.io/anime/buddy-daddies)
+5. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou Yakusai-hen](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-IV-fuka-shou-yakusaihen)
 6. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
 7. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
 8. [Tomo-chan wa Onnanoko!](https://kitsu.io/anime/tomo-chan-wa-onna-no-ko)
-9. [Kubo-san wa Mob wo Yurusanai](https://kitsu.io/anime/kubo-san-wa-mob-wo-yurusanai)
-10. [Tondemo Skill de Isekai Hourou Meshi](https://kitsu.io/anime/tondemo-skill-de-isekai-hourou-meshi)
+9. [Tondemo Skill de Isekai Hourou Meshi](https://kitsu.io/anime/tondemo-skill-de-isekai-hourou-meshi)
+10. [Kubo-san wa Mob wo Yurusanai](https://kitsu.io/anime/kubo-san-wa-mob-wo-yurusanai)
 
 ## Laplace
 
