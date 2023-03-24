@@ -1,6 +1,6 @@
 # Trends of Winter 2023
 
-> Last updated at 3/23/2023, 1:09:04 AM
+> Last updated at 3/24/2023, 1:09:05 AM
 
 ## Wilson
 
@@ -31,14 +31,14 @@
 ## Upvotes
 
 1. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou Yakusai-hen](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-IV-fuka-shou-yakusaihen)
-2. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
-3. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
+2. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
+3. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
 4. [Tomo-chan wa Onnanoko!](https://kitsu.io/anime/tomo-chan-wa-onna-no-ko)
-5. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
-6. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
-7. [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://kitsu.io/anime/tensei-oujo-to-tensai-reijou-no-mahou-kakumei)
-8. [Buddy Daddies](https://kitsu.io/anime/buddy-daddies)
-9. [Koori Zokusei Danshi to Cool na Douryou Joshi](https://kitsu.io/anime/koori-zokusei-danshi-to-cool-na-douryou-joshi)
+5. [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://kitsu.io/anime/tensei-oujo-to-tensai-reijou-no-mahou-kakumei)
+6. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
+7. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
+8. [Koori Zokusei Danshi to Cool na Douryou Joshi](https://kitsu.io/anime/koori-zokusei-danshi-to-cool-na-douryou-joshi)
+9. [Buddy Daddies](https://kitsu.io/anime/buddy-daddies)
 10. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
 
 ## Rated
