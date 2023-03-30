@@ -1,45 +1,45 @@
 # Trends of Winter 2023
 
-> Last updated at 3/29/2023, 1:15:50 AM
+> Last updated at 3/30/2023, 1:11:30 AM
 
 ## Wilson
 
 1. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou Yakusai-hen](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-IV-fuka-shou-yakusaihen)
 2. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
-3. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
-4. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
+3. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
+4. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
 5. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
 6. [Buddy Daddies](https://kitsu.io/anime/buddy-daddies)
 7. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
-8. [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://kitsu.io/anime/tensei-oujo-to-tensai-reijou-no-mahou-kakumei)
-9. [Tomo-chan wa Onnanoko!](https://kitsu.io/anime/tomo-chan-wa-onna-no-ko)
-10. [TRIGUN STAMPEDE](https://kitsu.io/anime/trigun-stampede)
+8. [Tomo-chan wa Onnanoko!](https://kitsu.io/anime/tomo-chan-wa-onna-no-ko)
+9. [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://kitsu.io/anime/tensei-oujo-to-tensai-reijou-no-mahou-kakumei)
+10. [Tondemo Skill de Isekai Hourou Meshi](https://kitsu.io/anime/tondemo-skill-de-isekai-hourou-meshi)
 
 ## Laplace
 
 1. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou Yakusai-hen](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-IV-fuka-shou-yakusaihen)
 2. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
-3. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
-4. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
-5. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
-6. [Buddy Daddies](https://kitsu.io/anime/buddy-daddies)
+3. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
+4. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
+5. [Buddy Daddies](https://kitsu.io/anime/buddy-daddies)
+6. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
 7. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
-8. [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://kitsu.io/anime/tensei-oujo-to-tensai-reijou-no-mahou-kakumei)
-9. [Tomo-chan wa Onnanoko!](https://kitsu.io/anime/tomo-chan-wa-onna-no-ko)
-10. [TRIGUN STAMPEDE](https://kitsu.io/anime/trigun-stampede)
+8. [Tomo-chan wa Onnanoko!](https://kitsu.io/anime/tomo-chan-wa-onna-no-ko)
+9. [Tondemo Skill de Isekai Hourou Meshi](https://kitsu.io/anime/tondemo-skill-de-isekai-hourou-meshi)
+10. [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://kitsu.io/anime/tensei-oujo-to-tensai-reijou-no-mahou-kakumei)
 
 ## Upvotes
 
 1. [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou Yakusai-hen](https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-IV-fuka-shou-yakusaihen)
-2. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
-3. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
-4. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
+2. [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://kitsu.io/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-Ken)
+3. [Tomo-chan wa Onnanoko!](https://kitsu.io/anime/tomo-chan-wa-onna-no-ko)
+4. [Ijiranaide, Nagatoro-san 2nd Attack](https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack)
 5. [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://kitsu.io/anime/tensei-oujo-to-tensai-reijou-no-mahou-kakumei)
-6. [Tomo-chan wa Onnanoko!](https://kitsu.io/anime/tomo-chan-wa-onna-no-ko)
-7. [Isekai Nonbiri Nouka](https://kitsu.io/anime/isekai-nonbiri-nouka)
-8. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
-9. [Koori Zokusei Danshi to Cool na Douryou Joshi](https://kitsu.io/anime/koori-zokusei-danshi-to-cool-na-douryou-joshi)
-10. [Benriya Saitou san, Isekai ni Iku](https://kitsu.io/anime/benriya-saitou-san-isekai-ni-iku)
+6. [Vinland Saga Season 2](https://kitsu.io/anime/vinland-saga-season-2)
+7. [Tondemo Skill de Isekai Hourou Meshi](https://kitsu.io/anime/tondemo-skill-de-isekai-hourou-meshi)
+8. [Isekai Nonbiri Nouka](https://kitsu.io/anime/isekai-nonbiri-nouka)
+9. [Tokyo Revengers: Seiya Kessen-hen](https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen)
+10. [Bungou Stray Dogs 4th Season](https://kitsu.io/anime/bungou-stray-dogs-4)
 
 ## Rated
 
