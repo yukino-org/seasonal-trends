@@ -1,19 +1,19 @@
 # Trends of Spring 2023
 
-> Last updated at 4/15/2023, 1:08:42 AM
+> Last updated at 4/16/2023, 1:10:53 AM
 
 ## Wilson
 
-1. [[Oshi no Ko]](https://kitsu.io/anime/oshi-no-ko)
-2. [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://kitsu.io/anime/kimetsu-no-yaiba-katanakaji-no-satohen)
+1. [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://kitsu.io/anime/kimetsu-no-yaiba-katanakaji-no-satohen)
+2. [[Oshi no Ko]](https://kitsu.io/anime/oshi-no-ko)
 3. [Dr.STONE: NEW WORLD](https://kitsu.io/anime/dr-stone-new-world)
 4. [Jigokuraku](https://kitsu.io/anime/jigokuraku)
 5. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
 6. [Mahoutsukai no Yome SEASON 2](https://kitsu.io/anime/mahoutsukai-no-yome-season-2)
 7. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
-8. [Mashle](https://kitsu.io/anime/mashle)
-9. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
-10. [Tonikaku Kawaii 2](https://kitsu.io/anime/tonikaku-kawaii-2)
+8. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
+9. [Mashle](https://kitsu.io/anime/mashle)
+10. [Kono Subarashii Sekai ni Bakuen wo!](https://kitsu.io/anime/kono-subarashii-sekai-ni-bakuen-wo)
 
 ## Laplace
 
@@ -24,15 +24,15 @@
 5. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
 6. [Mahoutsukai no Yome SEASON 2](https://kitsu.io/anime/mahoutsukai-no-yome-season-2)
 7. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
-8. [Mashle](https://kitsu.io/anime/mashle)
-9. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
+8. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
+9. [Kono Subarashii Sekai ni Bakuen wo!](https://kitsu.io/anime/kono-subarashii-sekai-ni-bakuen-wo)
 10. [Tonikaku Kawaii 2](https://kitsu.io/anime/tonikaku-kawaii-2)
 
 ## Upvotes
 
 1. [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://kitsu.io/anime/kimetsu-no-yaiba-katanakaji-no-satohen)
-2. [Jigokuraku](https://kitsu.io/anime/jigokuraku)
-3. [[Oshi no Ko]](https://kitsu.io/anime/oshi-no-ko)
+2. [[Oshi no Ko]](https://kitsu.io/anime/oshi-no-ko)
+3. [Jigokuraku](https://kitsu.io/anime/jigokuraku)
 4. [Dr.STONE: NEW WORLD](https://kitsu.io/anime/dr-stone-new-world)
 5. [Mashle](https://kitsu.io/anime/mashle)
 6. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
