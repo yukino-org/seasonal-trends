@@ -1,24 +1,11 @@
 # Trends of Spring 2023
 
-> Last updated at 4/18/2023, 1:06:39 AM
+> Last updated at 4/19/2023, 1:09:04 AM
 
 ## Wilson
 
 1. [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://kitsu.io/anime/kimetsu-no-yaiba-katanakaji-no-satohen)
 2. [[Oshi no Ko]](https://kitsu.io/anime/oshi-no-ko)
-3. [Jigokuraku](https://kitsu.io/anime/jigokuraku)
-4. [Dr.STONE: NEW WORLD](https://kitsu.io/anime/dr-stone-new-world)
-5. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
-6. [Mahoutsukai no Yome SEASON 2](https://kitsu.io/anime/mahoutsukai-no-yome-season-2)
-7. [Mashle](https://kitsu.io/anime/mashle)
-8. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
-9. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
-10. [Kono Subarashii Sekai ni Bakuen wo!](https://kitsu.io/anime/kono-subarashii-sekai-ni-bakuen-wo)
-
-## Laplace
-
-1. [[Oshi no Ko]](https://kitsu.io/anime/oshi-no-ko)
-2. [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://kitsu.io/anime/kimetsu-no-yaiba-katanakaji-no-satohen)
 3. [Dr.STONE: NEW WORLD](https://kitsu.io/anime/dr-stone-new-world)
 4. [Jigokuraku](https://kitsu.io/anime/jigokuraku)
 5. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
@@ -26,7 +13,20 @@
 7. [Mashle](https://kitsu.io/anime/mashle)
 8. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
 9. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
-10. [Kono Subarashii Sekai ni Bakuen wo!](https://kitsu.io/anime/kono-subarashii-sekai-ni-bakuen-wo)
+10. [Tonikaku Kawaii 2](https://kitsu.io/anime/tonikaku-kawaii-2)
+
+## Laplace
+
+1. [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://kitsu.io/anime/kimetsu-no-yaiba-katanakaji-no-satohen)
+2. [[Oshi no Ko]](https://kitsu.io/anime/oshi-no-ko)
+3. [Dr.STONE: NEW WORLD](https://kitsu.io/anime/dr-stone-new-world)
+4. [Jigokuraku](https://kitsu.io/anime/jigokuraku)
+5. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
+6. [Mahoutsukai no Yome SEASON 2](https://kitsu.io/anime/mahoutsukai-no-yome-season-2)
+7. [Mashle](https://kitsu.io/anime/mashle)
+8. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
+9. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
+10. [Tonikaku Kawaii 2](https://kitsu.io/anime/tonikaku-kawaii-2)
 
 ## Upvotes
 
