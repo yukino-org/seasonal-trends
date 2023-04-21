@@ -1,6 +1,6 @@
 # Trends of Spring 2023
 
-> Last updated at 4/20/2023, 1:06:09 AM
+> Last updated at 4/21/2023, 1:06:37 AM
 
 ## Wilson
 
@@ -17,8 +17,8 @@
 
 ## Laplace
 
-1. [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://kitsu.io/anime/kimetsu-no-yaiba-katanakaji-no-satohen)
-2. [[Oshi no Ko]](https://kitsu.io/anime/oshi-no-ko)
+1. [[Oshi no Ko]](https://kitsu.io/anime/oshi-no-ko)
+2. [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://kitsu.io/anime/kimetsu-no-yaiba-katanakaji-no-satohen)
 3. [Dr.STONE: NEW WORLD](https://kitsu.io/anime/dr-stone-new-world)
 4. [Jigokuraku](https://kitsu.io/anime/jigokuraku)
 5. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
