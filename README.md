@@ -1,6 +1,6 @@
 # Trends of Spring 2023
 
-> Last updated at 4/21/2023, 1:06:37 AM
+> Last updated at 4/22/2023, 1:07:24 AM
 
 ## Wilson
 
@@ -9,9 +9,9 @@
 3. [Jigokuraku](https://kitsu.io/anime/jigokuraku)
 4. [Dr.STONE: NEW WORLD](https://kitsu.io/anime/dr-stone-new-world)
 5. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
-6. [Mahoutsukai no Yome SEASON 2](https://kitsu.io/anime/mahoutsukai-no-yome-season-2)
-7. [Mashle](https://kitsu.io/anime/mashle)
-8. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
+6. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
+7. [Mahoutsukai no Yome SEASON 2](https://kitsu.io/anime/mahoutsukai-no-yome-season-2)
+8. [Mashle](https://kitsu.io/anime/mashle)
 9. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
 10. [Tonikaku Kawaii 2](https://kitsu.io/anime/tonikaku-kawaii-2)
 
@@ -22,8 +22,8 @@
 3. [Dr.STONE: NEW WORLD](https://kitsu.io/anime/dr-stone-new-world)
 4. [Jigokuraku](https://kitsu.io/anime/jigokuraku)
 5. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
-6. [Mahoutsukai no Yome SEASON 2](https://kitsu.io/anime/mahoutsukai-no-yome-season-2)
-7. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
+6. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
+7. [Mahoutsukai no Yome SEASON 2](https://kitsu.io/anime/mahoutsukai-no-yome-season-2)
 8. [Mashle](https://kitsu.io/anime/mashle)
 9. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
 10. [Tonikaku Kawaii 2](https://kitsu.io/anime/tonikaku-kawaii-2)
