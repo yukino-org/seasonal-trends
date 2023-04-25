@@ -1,31 +1,31 @@
 # Trends of Spring 2023
 
-> Last updated at 4/24/2023, 1:09:00 AM
+> Last updated at 4/25/2023, 1:08:45 AM
 
 ## Wilson
 
 1. [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://kitsu.io/anime/kimetsu-no-yaiba-katanakaji-no-satohen)
 2. [[Oshi no Ko]](https://kitsu.io/anime/oshi-no-ko)
-3. [Jigokuraku](https://kitsu.io/anime/jigokuraku)
-4. [Dr.STONE: NEW WORLD](https://kitsu.io/anime/dr-stone-new-world)
+3. [Dr.STONE: NEW WORLD](https://kitsu.io/anime/dr-stone-new-world)
+4. [Jigokuraku](https://kitsu.io/anime/jigokuraku)
 5. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
 6. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
 7. [Mahoutsukai no Yome SEASON 2](https://kitsu.io/anime/mahoutsukai-no-yome-season-2)
 8. [Mashle](https://kitsu.io/anime/mashle)
 9. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
-10. [Tonikaku Kawaii 2](https://kitsu.io/anime/tonikaku-kawaii-2)
+10. [Kidou Senshi Gundam: Suisei no Majo Season 2](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo-2)
 
 ## Laplace
 
-1. [[Oshi no Ko]](https://kitsu.io/anime/oshi-no-ko)
-2. [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://kitsu.io/anime/kimetsu-no-yaiba-katanakaji-no-satohen)
-3. [Jigokuraku](https://kitsu.io/anime/jigokuraku)
-4. [Dr.STONE: NEW WORLD](https://kitsu.io/anime/dr-stone-new-world)
+1. [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://kitsu.io/anime/kimetsu-no-yaiba-katanakaji-no-satohen)
+2. [[Oshi no Ko]](https://kitsu.io/anime/oshi-no-ko)
+3. [Dr.STONE: NEW WORLD](https://kitsu.io/anime/dr-stone-new-world)
+4. [Jigokuraku](https://kitsu.io/anime/jigokuraku)
 5. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
 6. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
 7. [Mahoutsukai no Yome SEASON 2](https://kitsu.io/anime/mahoutsukai-no-yome-season-2)
 8. [Mashle](https://kitsu.io/anime/mashle)
-9. [Tonikaku Kawaii 2](https://kitsu.io/anime/tonikaku-kawaii-2)
+9. [Kidou Senshi Gundam: Suisei no Majo Season 2](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo-2)
 10. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
 
 ## Upvotes
