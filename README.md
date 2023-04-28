@@ -1,6 +1,6 @@
 # Trends of Spring 2023
 
-> Last updated at 4/27/2023, 1:09:04 AM
+> Last updated at 4/28/2023, 1:08:54 AM
 
 ## Wilson
 
@@ -24,8 +24,8 @@
 5. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
 6. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
 7. [Mahoutsukai no Yome SEASON 2](https://kitsu.io/anime/mahoutsukai-no-yome-season-2)
-8. [Mashle](https://kitsu.io/anime/mashle)
-9. [Kidou Senshi Gundam: Suisei no Majo Season 2](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo-2)
+8. [Kidou Senshi Gundam: Suisei no Majo Season 2](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo-2)
+9. [Mashle](https://kitsu.io/anime/mashle)
 10. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
 
 ## Upvotes
@@ -36,8 +36,8 @@
 4. [Dr.STONE: NEW WORLD](https://kitsu.io/anime/dr-stone-new-world)
 5. [Mashle](https://kitsu.io/anime/mashle)
 6. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
-7. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
-8. [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://kitsu.io/anime/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta)
+7. [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://kitsu.io/anime/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta)
+8. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
 9. [Kono Subarashii Sekai ni Bakuen wo!](https://kitsu.io/anime/kono-subarashii-sekai-ni-bakuen-wo)
 10. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
 
