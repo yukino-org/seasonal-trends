@@ -1,6 +1,6 @@
 # Trends of Spring 2023
 
-> Last updated at 5/5/2023, 1:02:38 AM
+> Last updated at 5/6/2023, 1:02:53 AM
 
 ## Wilson
 
@@ -11,8 +11,8 @@
 5. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
 6. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
 7. [Mashle](https://kitsu.io/anime/mashle)
-8. [Kidou Senshi Gundam: Suisei no Majo Season 2](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo-2)
-9. [Mahoutsukai no Yome SEASON 2](https://kitsu.io/anime/mahoutsukai-no-yome-season-2)
+8. [Mahoutsukai no Yome SEASON 2](https://kitsu.io/anime/mahoutsukai-no-yome-season-2)
+9. [Kidou Senshi Gundam: Suisei no Majo Season 2](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo-2)
 10. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
 
 ## Laplace
@@ -23,8 +23,8 @@
 4. [Jigokuraku](https://kitsu.io/anime/jigokuraku)
 5. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
 6. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
-7. [Kidou Senshi Gundam: Suisei no Majo Season 2](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo-2)
-8. [Mahoutsukai no Yome SEASON 2](https://kitsu.io/anime/mahoutsukai-no-yome-season-2)
+7. [Mahoutsukai no Yome SEASON 2](https://kitsu.io/anime/mahoutsukai-no-yome-season-2)
+8. [Kidou Senshi Gundam: Suisei no Majo Season 2](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo-2)
 9. [Mashle](https://kitsu.io/anime/mashle)
 10. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
 
