@@ -1,6 +1,6 @@
 # Trends of Spring 2023
 
-> Last updated at 5/12/2023, 1:08:07 AM
+> Last updated at 5/13/2023, 1:05:32 AM
 
 ## Wilson
 
@@ -11,8 +11,8 @@
 5. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
 6. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
 7. [Kidou Senshi Gundam: Suisei no Majo Season 2](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo-2)
-8. [Mashle](https://kitsu.io/anime/mashle)
-9. [Mahoutsukai no Yome SEASON 2](https://kitsu.io/anime/mahoutsukai-no-yome-season-2)
+8. [Mahoutsukai no Yome SEASON 2](https://kitsu.io/anime/mahoutsukai-no-yome-season-2)
+9. [Mashle](https://kitsu.io/anime/mashle)
 10. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
 
 ## Laplace
