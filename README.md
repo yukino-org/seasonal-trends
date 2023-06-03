@@ -1,6 +1,6 @@
 # Trends of Spring 2023
 
-> Last updated at 6/2/2023, 1:20:05 AM
+> Last updated at 6/3/2023, 1:18:53 AM
 
 ## Wilson
 
