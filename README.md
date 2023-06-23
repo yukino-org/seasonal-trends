@@ -1,6 +1,6 @@
 # Trends of Spring 2023
 
-> Last updated at 6/22/2023, 1:16:49 AM
+> Last updated at 6/23/2023, 1:24:51 AM
 
 ## Wilson
 
@@ -34,12 +34,12 @@
 2. [[Oshi no Ko]](https://kitsu.io/anime/oshi-no-ko)
 3. [Dr.STONE: NEW WORLD](https://kitsu.io/anime/dr-stone-new-world)
 4. [Jigokuraku](https://kitsu.io/anime/jigokuraku)
-5. [Mashle](https://kitsu.io/anime/mashle)
-6. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
+5. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
+6. [Mashle](https://kitsu.io/anime/mashle)
 7. [Boku no Kokoro no Yabai Yatsu](https://kitsu.io/anime/boku-no-kokoro-no-yabai-yatsu)
-8. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
-9. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
-10. [Kono Subarashii Sekai ni Bakuen wo!](https://kitsu.io/anime/kono-subarashii-sekai-ni-bakuen-wo)
+8. [Kono Subarashii Sekai ni Bakuen wo!](https://kitsu.io/anime/kono-subarashii-sekai-ni-bakuen-wo)
+9. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
+10. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
 
 ## Rated
 
