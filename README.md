@@ -1,14 +1,14 @@
 # Trends of Spring 2023
 
-> Last updated at 6/25/2023, 1:42:14 AM
+> Last updated at 6/26/2023, 1:25:36 AM
 
 ## Wilson
 
 1. [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://kitsu.io/anime/kimetsu-no-yaiba-katanakaji-no-satohen)
 2. [[Oshi no Ko]](https://kitsu.io/anime/oshi-no-ko)
 3. [Dr.STONE: NEW WORLD](https://kitsu.io/anime/dr-stone-new-world)
-4. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
-5. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
+4. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
+5. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
 6. [Boku no Kokoro no Yabai Yatsu](https://kitsu.io/anime/boku-no-kokoro-no-yabai-yatsu)
 7. [Jigokuraku](https://kitsu.io/anime/jigokuraku)
 8. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
@@ -19,9 +19,9 @@
 
 1. [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://kitsu.io/anime/kimetsu-no-yaiba-katanakaji-no-satohen)
 2. [[Oshi no Ko]](https://kitsu.io/anime/oshi-no-ko)
-3. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
-4. [Dr.STONE: NEW WORLD](https://kitsu.io/anime/dr-stone-new-world)
-5. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
+3. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
+4. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
+5. [Dr.STONE: NEW WORLD](https://kitsu.io/anime/dr-stone-new-world)
 6. [Boku no Kokoro no Yabai Yatsu](https://kitsu.io/anime/boku-no-kokoro-no-yabai-yatsu)
 7. [Jigokuraku](https://kitsu.io/anime/jigokuraku)
 8. [Kidou Senshi Gundam: Suisei no Majo Season 2](https://kitsu.io/anime/kidou-senshi-gundam-suisei-no-majo-2)
@@ -34,12 +34,12 @@
 2. [[Oshi no Ko]](https://kitsu.io/anime/oshi-no-ko)
 3. [Dr.STONE: NEW WORLD](https://kitsu.io/anime/dr-stone-new-world)
 4. [Jigokuraku](https://kitsu.io/anime/jigokuraku)
-5. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
-6. [Kono Subarashii Sekai ni Bakuen wo!](https://kitsu.io/anime/kono-subarashii-sekai-ni-bakuen-wo)
-7. [Mashle](https://kitsu.io/anime/mashle)
-8. [Boku no Kokoro no Yabai Yatsu](https://kitsu.io/anime/boku-no-kokoro-no-yabai-yatsu)
-9. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
-10. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
+5. [Yamada-kun to Lv999 no Koi wo Suru](https://kitsu.io/anime/yamada-kun-to-lv999-no-koi-wo-suru)
+6. [Tengoku Daimakyou](https://kitsu.io/anime/tengoku-daimakyou)
+7. [Skip to Loafer](https://kitsu.io/anime/skip-to-loafer)
+8. [Kono Subarashii Sekai ni Bakuen wo!](https://kitsu.io/anime/kono-subarashii-sekai-ni-bakuen-wo)
+9. [Mashle](https://kitsu.io/anime/mashle)
+10. [Boku no Kokoro no Yabai Yatsu](https://kitsu.io/anime/boku-no-kokoro-no-yabai-yatsu)
 
 ## Rated
 
