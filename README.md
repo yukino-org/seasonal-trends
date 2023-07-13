@@ -1,42 +1,42 @@
 # Trends of Summer 2023
 
-> Last updated at 7/12/2023, 1:23:39 AM
+> Last updated at 7/13/2023, 1:27:11 AM
 
 ## Wilson
 
 1. [Jujutsu Kaisen Season 2](https://kitsu.io/anime/jujutsu-kaisen-2)
 2. [Mushoku Tensei: Isekai Ittara Honki Dasu Season 2](https://kitsu.io/anime/mushoku-tensei-isekai-ittara-honki-dasu-season-2)
-3. [BLEACH: Sennen Kessen-hen - Ketsubetsu-tan](https://kitsu.io/anime/bleach-sennen-kessen-hen-ketsubetsutan)
-4. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
-5. [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://kitsu.io/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto)
+3. [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://kitsu.io/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto)
+4. [BLEACH: Sennen Kessen-hen - Ketsubetsu-tan](https://kitsu.io/anime/bleach-sennen-kessen-hen-ketsubetsutan)
+5. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 6. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 7. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
-8. [Kanojo, Okarishimasu Season 3](https://kitsu.io/anime/kanojo-okarishimasu-3rd-season)
+8. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
 9. [Masamune-kun no Revenge R](https://kitsu.io/anime/masamune-kun-no-revenge-r)
-10. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
+10. [Kanojo, Okarishimasu Season 3](https://kitsu.io/anime/kanojo-okarishimasu-3rd-season)
 
 ## Laplace
 
 1. [Jujutsu Kaisen Season 2](https://kitsu.io/anime/jujutsu-kaisen-2)
 2. [Mushoku Tensei: Isekai Ittara Honki Dasu Season 2](https://kitsu.io/anime/mushoku-tensei-isekai-ittara-honki-dasu-season-2)
-3. [BLEACH: Sennen Kessen-hen - Ketsubetsu-tan](https://kitsu.io/anime/bleach-sennen-kessen-hen-ketsubetsutan)
-4. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
-5. [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://kitsu.io/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto)
+3. [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://kitsu.io/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto)
+4. [BLEACH: Sennen Kessen-hen - Ketsubetsu-tan](https://kitsu.io/anime/bleach-sennen-kessen-hen-ketsubetsutan)
+5. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 6. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 7. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
-8. [Kanojo, Okarishimasu Season 3](https://kitsu.io/anime/kanojo-okarishimasu-3rd-season)
+8. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
 9. [Masamune-kun no Revenge R](https://kitsu.io/anime/masamune-kun-no-revenge-r)
-10. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
+10. [Kanojo, Okarishimasu Season 3](https://kitsu.io/anime/kanojo-okarishimasu-3rd-season)
 
 ## Upvotes
 
 1. [Jujutsu Kaisen Season 2](https://kitsu.io/anime/jujutsu-kaisen-2)
 2. [Mushoku Tensei: Isekai Ittara Honki Dasu Season 2](https://kitsu.io/anime/mushoku-tensei-isekai-ittara-honki-dasu-season-2)
-3. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
-4. [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://kitsu.io/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto)
+3. [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://kitsu.io/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto)
+4. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 5. [BLEACH: Sennen Kessen-hen - Ketsubetsu-tan](https://kitsu.io/anime/bleach-sennen-kessen-hen-ketsubetsutan)
-6. [Jitsu wa Ore, Saikyou Deshita?](https://kitsu.io/anime/jitsu-wa-ore-saikyou-deshita)
-7. [Suki na Ko ga Megane wo Wasureta](https://kitsu.io/anime/suki-na-ko-ga-megane-wo-wasureta)
+6. [Suki na Ko ga Megane wo Wasureta](https://kitsu.io/anime/suki-na-ko-ga-megane-wo-wasureta)
+7. [Jitsu wa Ore, Saikyou Deshita?](https://kitsu.io/anime/jitsu-wa-ore-saikyou-deshita)
 8. [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou](https://kitsu.io/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou)
 9. [Masamune-kun no Revenge R](https://kitsu.io/anime/masamune-kun-no-revenge-r)
 10. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
