@@ -1,6 +1,6 @@
 # Trends of Summer 2023
 
-> Last updated at 7/13/2023, 1:27:11 AM
+> Last updated at 7/14/2023, 1:26:14 AM
 
 ## Wilson
 
@@ -13,7 +13,7 @@
 7. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
 8. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
 9. [Masamune-kun no Revenge R](https://kitsu.io/anime/masamune-kun-no-revenge-r)
-10. [Kanojo, Okarishimasu Season 3](https://kitsu.io/anime/kanojo-okarishimasu-3rd-season)
+10. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
 
 ## Laplace
 
@@ -37,9 +37,9 @@
 5. [BLEACH: Sennen Kessen-hen - Ketsubetsu-tan](https://kitsu.io/anime/bleach-sennen-kessen-hen-ketsubetsutan)
 6. [Suki na Ko ga Megane wo Wasureta](https://kitsu.io/anime/suki-na-ko-ga-megane-wo-wasureta)
 7. [Jitsu wa Ore, Saikyou Deshita?](https://kitsu.io/anime/jitsu-wa-ore-saikyou-deshita)
-8. [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou](https://kitsu.io/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou)
-9. [Masamune-kun no Revenge R](https://kitsu.io/anime/masamune-kun-no-revenge-r)
-10. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
+8. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
+9. [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou](https://kitsu.io/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou)
+10. [Masamune-kun no Revenge R](https://kitsu.io/anime/masamune-kun-no-revenge-r)
 
 ## Rated
 
