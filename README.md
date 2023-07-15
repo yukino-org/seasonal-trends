@@ -1,6 +1,6 @@
 # Trends of Summer 2023
 
-> Last updated at 7/14/2023, 1:26:14 AM
+> Last updated at 7/15/2023, 1:25:32 AM
 
 ## Wilson
 
@@ -11,9 +11,9 @@
 5. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 6. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 7. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
-8. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
-9. [Masamune-kun no Revenge R](https://kitsu.io/anime/masamune-kun-no-revenge-r)
-10. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
+8. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
+9. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
+10. [Masamune-kun no Revenge R](https://kitsu.io/anime/masamune-kun-no-revenge-r)
 
 ## Laplace
 
@@ -24,9 +24,9 @@
 5. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 6. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 7. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
-8. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
-9. [Masamune-kun no Revenge R](https://kitsu.io/anime/masamune-kun-no-revenge-r)
-10. [Kanojo, Okarishimasu Season 3](https://kitsu.io/anime/kanojo-okarishimasu-3rd-season)
+8. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
+9. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
+10. [Masamune-kun no Revenge R](https://kitsu.io/anime/masamune-kun-no-revenge-r)
 
 ## Upvotes
 
