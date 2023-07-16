@@ -1,6 +1,6 @@
 # Trends of Summer 2023
 
-> Last updated at 7/15/2023, 1:25:32 AM
+> Last updated at 7/16/2023, 1:44:11 AM
 
 ## Wilson
 
@@ -11,8 +11,8 @@
 5. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 6. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 7. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
-8. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
-9. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
+8. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
+9. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
 10. [Masamune-kun no Revenge R](https://kitsu.io/anime/masamune-kun-no-revenge-r)
 
 ## Laplace
@@ -24,8 +24,8 @@
 5. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 6. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 7. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
-8. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
-9. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
+8. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
+9. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
 10. [Masamune-kun no Revenge R](https://kitsu.io/anime/masamune-kun-no-revenge-r)
 
 ## Upvotes
@@ -39,7 +39,7 @@
 7. [Jitsu wa Ore, Saikyou Deshita?](https://kitsu.io/anime/jitsu-wa-ore-saikyou-deshita)
 8. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 9. [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou](https://kitsu.io/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou)
-10. [Masamune-kun no Revenge R](https://kitsu.io/anime/masamune-kun-no-revenge-r)
+10. [Liar Liar](https://kitsu.io/anime/liar-liar)
 
 ## Rated
 
