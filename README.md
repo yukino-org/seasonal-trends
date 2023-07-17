@@ -1,6 +1,6 @@
 # Trends of Summer 2023
 
-> Last updated at 7/16/2023, 1:44:11 AM
+> Last updated at 7/17/2023, 1:27:41 AM
 
 ## Wilson
 
@@ -35,8 +35,8 @@
 3. [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://kitsu.io/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto)
 4. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 5. [BLEACH: Sennen Kessen-hen - Ketsubetsu-tan](https://kitsu.io/anime/bleach-sennen-kessen-hen-ketsubetsutan)
-6. [Suki na Ko ga Megane wo Wasureta](https://kitsu.io/anime/suki-na-ko-ga-megane-wo-wasureta)
-7. [Jitsu wa Ore, Saikyou Deshita?](https://kitsu.io/anime/jitsu-wa-ore-saikyou-deshita)
+6. [Jitsu wa Ore, Saikyou Deshita?](https://kitsu.io/anime/jitsu-wa-ore-saikyou-deshita)
+7. [Suki na Ko ga Megane wo Wasureta](https://kitsu.io/anime/suki-na-ko-ga-megane-wo-wasureta)
 8. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 9. [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou](https://kitsu.io/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou)
 10. [Liar Liar](https://kitsu.io/anime/liar-liar)
