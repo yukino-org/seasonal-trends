@@ -1,6 +1,6 @@
 # Trends of Summer 2023
 
-> Last updated at 7/19/2023, 2:35:37 AM
+> Last updated at 7/20/2023, 1:12:40 AM
 
 ## Wilson
 
@@ -18,8 +18,8 @@
 ## Laplace
 
 1. [Jujutsu Kaisen Season 2](https://kitsu.io/anime/jujutsu-kaisen-2)
-2. [Mushoku Tensei: Isekai Ittara Honki Dasu Season 2](https://kitsu.io/anime/mushoku-tensei-isekai-ittara-honki-dasu-season-2)
-3. [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://kitsu.io/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto)
+2. [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://kitsu.io/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto)
+3. [Mushoku Tensei: Isekai Ittara Honki Dasu Season 2](https://kitsu.io/anime/mushoku-tensei-isekai-ittara-honki-dasu-season-2)
 4. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 5. [BLEACH: Sennen Kessen-hen - Ketsubetsu-tan](https://kitsu.io/anime/bleach-sennen-kessen-hen-ketsubetsutan)
 6. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
