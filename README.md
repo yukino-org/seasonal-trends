@@ -1,6 +1,6 @@
 # Trends of Summer 2023
 
-> Last updated at 7/26/2023, 1:13:29 AM
+> Last updated at 7/27/2023, 1:05:09 AM
 
 ## Wilson
 
@@ -13,7 +13,7 @@
 7. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
 8. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
 9. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
-10. [Kanojo, Okarishimasu Season 3](https://kitsu.io/anime/kanojo-okarishimasu-3rd-season)
+10. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
 
 ## Laplace
 
@@ -26,7 +26,7 @@
 7. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
 8. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
 9. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
-10. [Kanojo, Okarishimasu Season 3](https://kitsu.io/anime/kanojo-okarishimasu-3rd-season)
+10. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
 
 ## Upvotes
 
