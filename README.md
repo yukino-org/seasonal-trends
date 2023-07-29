@@ -1,6 +1,6 @@
 # Trends of Summer 2023
 
-> Last updated at 7/28/2023, 1:06:13 AM
+> Last updated at 7/29/2023, 1:07:10 AM
 
 ## Wilson
 
@@ -39,7 +39,7 @@
 7. [Jitsu wa Ore, Saikyou Deshita?](https://kitsu.io/anime/jitsu-wa-ore-saikyou-deshita)
 8. [Suki na Ko ga Megane wo Wasureta](https://kitsu.io/anime/suki-na-ko-ga-megane-wo-wasureta)
 9. [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou](https://kitsu.io/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou)
-10. [Masamune-kun no Revenge R](https://kitsu.io/anime/masamune-kun-no-revenge-r)
+10. [Liar Liar](https://kitsu.io/anime/liar-liar)
 
 ## Rated
 
