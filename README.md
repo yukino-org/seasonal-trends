@@ -1,6 +1,6 @@
 # Trends of Summer 2023
 
-> Last updated at 7/29/2023, 1:07:10 AM
+> Last updated at 7/30/2023, 1:09:32 AM
 
 ## Wilson
 
@@ -12,8 +12,8 @@
 6. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 7. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
 8. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
-9. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
-10. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
+9. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
+10. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
 
 ## Laplace
 
@@ -25,8 +25,8 @@
 6. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 7. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
 8. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
-9. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
-10. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
+9. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
+10. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
 
 ## Upvotes
 
@@ -36,10 +36,10 @@
 4. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 5. [BLEACH: Sennen Kessen-hen - Ketsubetsu-tan](https://kitsu.io/anime/bleach-sennen-kessen-hen-ketsubetsutan)
 6. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
-7. [Jitsu wa Ore, Saikyou Deshita?](https://kitsu.io/anime/jitsu-wa-ore-saikyou-deshita)
-8. [Suki na Ko ga Megane wo Wasureta](https://kitsu.io/anime/suki-na-ko-ga-megane-wo-wasureta)
+7. [Suki na Ko ga Megane wo Wasureta](https://kitsu.io/anime/suki-na-ko-ga-megane-wo-wasureta)
+8. [Jitsu wa Ore, Saikyou Deshita?](https://kitsu.io/anime/jitsu-wa-ore-saikyou-deshita)
 9. [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou](https://kitsu.io/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou)
-10. [Liar Liar](https://kitsu.io/anime/liar-liar)
+10. [Masamune-kun no Revenge R](https://kitsu.io/anime/masamune-kun-no-revenge-r)
 
 ## Rated
 
