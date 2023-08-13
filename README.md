@@ -1,13 +1,13 @@
 # Trends of Summer 2023
 
-> Last updated at 8/12/2023, 12:54:30 AM
+> Last updated at 8/13/2023, 12:58:27 AM
 
 ## Wilson
 
 1. [Jujutsu Kaisen Season 2](https://kitsu.io/anime/jujutsu-kaisen-2)
 2. [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://kitsu.io/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto)
-3. [Mushoku Tensei: Isekai Ittara Honki Dasu Season 2](https://kitsu.io/anime/mushoku-tensei-isekai-ittara-honki-dasu-season-2)
-4. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
+3. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
+4. [Mushoku Tensei: Isekai Ittara Honki Dasu Season 2](https://kitsu.io/anime/mushoku-tensei-isekai-ittara-honki-dasu-season-2)
 5. [BLEACH: Sennen Kessen-hen - Ketsubetsu-tan](https://kitsu.io/anime/bleach-sennen-kessen-hen-ketsubetsutan)
 6. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
 7. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
@@ -26,7 +26,7 @@
 7. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 8. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
 9. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
-10. [Kanojo, Okarishimasu Season 3](https://kitsu.io/anime/kanojo-okarishimasu-3rd-season)
+10. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
 
 ## Upvotes
 
