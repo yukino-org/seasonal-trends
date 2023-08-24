@@ -1,6 +1,6 @@
 # Trends of Summer 2023
 
-> Last updated at 8/23/2023, 12:55:50 AM
+> Last updated at 8/24/2023, 12:55:41 AM
 
 ## Wilson
 
@@ -8,19 +8,19 @@
 2. [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://kitsu.io/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto)
 3. [Mushoku Tensei: Isekai Ittara Honki Dasu Season 2](https://kitsu.io/anime/mushoku-tensei-isekai-ittara-honki-dasu-season-2)
 4. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
-5. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
-6. [BLEACH: Sennen Kessen-hen - Ketsubetsu-tan](https://kitsu.io/anime/bleach-sennen-kessen-hen-ketsubetsutan)
+5. [BLEACH: Sennen Kessen-hen - Ketsubetsu-tan](https://kitsu.io/anime/bleach-sennen-kessen-hen-ketsubetsutan)
+6. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
 7. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 8. [Sugar Apple Fairy Tale Part 2](https://kitsu.io/anime/sugar-apple-fairy-tale-season-2)
-9. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
-10. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
+9. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
+10. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
 
 ## Laplace
 
 1. [Jujutsu Kaisen Season 2](https://kitsu.io/anime/jujutsu-kaisen-2)
 2. [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://kitsu.io/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto)
-3. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
-4. [Mushoku Tensei: Isekai Ittara Honki Dasu Season 2](https://kitsu.io/anime/mushoku-tensei-isekai-ittara-honki-dasu-season-2)
+3. [Mushoku Tensei: Isekai Ittara Honki Dasu Season 2](https://kitsu.io/anime/mushoku-tensei-isekai-ittara-honki-dasu-season-2)
+4. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 5. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
 6. [BLEACH: Sennen Kessen-hen - Ketsubetsu-tan](https://kitsu.io/anime/bleach-sennen-kessen-hen-ketsubetsutan)
 7. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
