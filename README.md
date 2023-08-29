@@ -1,6 +1,6 @@
 # Trends of Summer 2023
 
-> Last updated at 8/28/2023, 12:57:39 AM
+> Last updated at 8/29/2023, 12:57:32 AM
 
 ## Wilson
 
@@ -13,7 +13,7 @@
 7. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 8. [Sugar Apple Fairy Tale Part 2](https://kitsu.io/anime/sugar-apple-fairy-tale-season-2)
 9. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
-10. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
+10. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
 
 ## Laplace
 
@@ -39,7 +39,7 @@
 7. [Suki na Ko ga Megane wo Wasureta](https://kitsu.io/anime/suki-na-ko-ga-megane-wo-wasureta)
 8. [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou](https://kitsu.io/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou)
 9. [Jitsu wa Ore, Saikyou Deshita?](https://kitsu.io/anime/jitsu-wa-ore-saikyou-deshita)
-10. [Masamune-kun no Revenge R](https://kitsu.io/anime/masamune-kun-no-revenge-r)
+10. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
 
 ## Rated
 
