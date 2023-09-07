@@ -1,6 +1,6 @@
 # Trends of Summer 2023
 
-> Last updated at 9/6/2023, 12:57:29 AM
+> Last updated at 9/7/2023, 12:56:56 AM
 
 ## Wilson
 
@@ -11,8 +11,8 @@
 5. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
 6. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 7. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
-8. [Sugar Apple Fairy Tale Part 2](https://kitsu.io/anime/sugar-apple-fairy-tale-season-2)
-9. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
+8. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
+9. [Sugar Apple Fairy Tale Part 2](https://kitsu.io/anime/sugar-apple-fairy-tale-season-2)
 10. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
 
 ## Laplace
@@ -25,8 +25,8 @@
 6. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 7. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 8. [Sugar Apple Fairy Tale Part 2](https://kitsu.io/anime/sugar-apple-fairy-tale-season-2)
-9. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
-10. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
+9. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
+10. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
 
 ## Upvotes
 
@@ -36,8 +36,8 @@
 4. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 5. [BLEACH: Sennen Kessen-hen - Ketsubetsu-tan](https://kitsu.io/anime/bleach-sennen-kessen-hen-ketsubetsutan)
 6. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
-7. [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou](https://kitsu.io/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou)
-8. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
+7. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
+8. [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou](https://kitsu.io/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou)
 9. [Suki na Ko ga Megane wo Wasureta](https://kitsu.io/anime/suki-na-ko-ga-megane-wo-wasureta)
 10. [Jitsu wa Ore, Saikyou Deshita?](https://kitsu.io/anime/jitsu-wa-ore-saikyou-deshita)
 
