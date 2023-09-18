@@ -1,6 +1,6 @@
 # Trends of Summer 2023
 
-> Last updated at 9/17/2023, 1:00:52 AM
+> Last updated at 9/18/2023, 12:58:03 AM
 
 ## Wilson
 
@@ -11,8 +11,8 @@
 5. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
 6. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 7. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
-8. [Sugar Apple Fairy Tale Part 2](https://kitsu.io/anime/sugar-apple-fairy-tale-season-2)
-9. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
+8. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
+9. [Sugar Apple Fairy Tale Part 2](https://kitsu.io/anime/sugar-apple-fairy-tale-season-2)
 10. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
 
 ## Laplace
@@ -38,8 +38,8 @@
 6. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 7. [Okashi na Tensei](https://kitsu.io/anime/okashi-na-tensei)
 8. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
-9. [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou](https://kitsu.io/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou)
-10. [Jitsu wa Ore, Saikyou Deshita?](https://kitsu.io/anime/jitsu-wa-ore-saikyou-deshita)
+9. [Liar Liar](https://kitsu.io/anime/liar-liar)
+10. [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou](https://kitsu.io/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou)
 
 ## Rated
 
