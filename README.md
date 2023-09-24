@@ -1,6 +1,6 @@
 # Trends of Summer 2023
 
-> Last updated at 9/23/2023, 12:56:16 AM
+> Last updated at 9/24/2023, 1:01:23 AM
 
 ## Wilson
 
@@ -12,8 +12,8 @@
 6. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 7. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 8. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
-9. [Sugar Apple Fairy Tale Part 2](https://kitsu.io/anime/sugar-apple-fairy-tale-season-2)
-10. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
+9. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
+10. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
 
 ## Laplace
 
@@ -25,21 +25,21 @@
 6. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 7. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 8. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
-9. [Sugar Apple Fairy Tale Part 2](https://kitsu.io/anime/sugar-apple-fairy-tale-season-2)
-10. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
+9. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
+10. [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://kitsu.io/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023)
 
 ## Upvotes
 
 1. [Jujutsu Kaisen Season 2](https://kitsu.io/anime/jujutsu-kaisen-2)
 2. [Mushoku Tensei: Isekai Ittara Honki Dasu Season 2](https://kitsu.io/anime/mushoku-tensei-isekai-ittara-honki-dasu-season-2)
-3. [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://kitsu.io/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto)
-4. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
+3. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
+4. [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://kitsu.io/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto)
 5. [BLEACH: Sennen Kessen-hen - Ketsubetsu-tan](https://kitsu.io/anime/bleach-sennen-kessen-hen-ketsubetsutan)
 6. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
-7. [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou](https://kitsu.io/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou)
-8. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
+7. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
+8. [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou](https://kitsu.io/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou)
 9. [Masamune-kun no Revenge R](https://kitsu.io/anime/masamune-kun-no-revenge-r)
-10. [Okashi na Tensei](https://kitsu.io/anime/okashi-na-tensei)
+10. [Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi](https://kitsu.io/anime/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi)
 
 ## Rated
 
