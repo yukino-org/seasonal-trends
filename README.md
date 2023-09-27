@@ -1,6 +1,6 @@
 # Trends of Summer 2023
 
-> Last updated at 9/26/2023, 12:58:37 AM
+> Last updated at 9/27/2023, 12:58:34 AM
 
 ## Wilson
 
@@ -11,8 +11,8 @@
 5. [BLEACH: Sennen Kessen-hen - Ketsubetsu-tan](https://kitsu.io/anime/bleach-sennen-kessen-hen-ketsubetsutan)
 6. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 7. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
-8. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
-9. [Sugar Apple Fairy Tale Part 2](https://kitsu.io/anime/sugar-apple-fairy-tale-season-2)
+8. [Sugar Apple Fairy Tale Part 2](https://kitsu.io/anime/sugar-apple-fairy-tale-season-2)
+9. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
 10. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
 
 ## Laplace
@@ -25,8 +25,8 @@
 6. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 7. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 8. [Sugar Apple Fairy Tale Part 2](https://kitsu.io/anime/sugar-apple-fairy-tale-season-2)
-9. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
-10. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
+9. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
+10. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
 
 ## Upvotes
 
