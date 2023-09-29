@@ -1,6 +1,6 @@
 # Trends of Summer 2023
 
-> Last updated at 9/28/2023, 12:58:11 AM
+> Last updated at 9/29/2023, 12:58:29 AM
 
 ## Wilson
 
@@ -9,8 +9,8 @@
 3. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
 4. [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://kitsu.io/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto)
 5. [BLEACH: Sennen Kessen-hen - Ketsubetsu-tan](https://kitsu.io/anime/bleach-sennen-kessen-hen-ketsubetsutan)
-6. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
-7. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
+6. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
+7. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 8. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
 9. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
 10. [Sugar Apple Fairy Tale Part 2](https://kitsu.io/anime/sugar-apple-fairy-tale-season-2)
@@ -18,8 +18,8 @@
 ## Laplace
 
 1. [Jujutsu Kaisen Season 2](https://kitsu.io/anime/jujutsu-kaisen-2)
-2. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
-3. [Mushoku Tensei: Isekai Ittara Honki Dasu Season 2](https://kitsu.io/anime/mushoku-tensei-isekai-ittara-honki-dasu-season-2)
+2. [Mushoku Tensei: Isekai Ittara Honki Dasu Season 2](https://kitsu.io/anime/mushoku-tensei-isekai-ittara-honki-dasu-season-2)
+3. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
 4. [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://kitsu.io/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto)
 5. [BLEACH: Sennen Kessen-hen - Ketsubetsu-tan](https://kitsu.io/anime/bleach-sennen-kessen-hen-ketsubetsutan)
 6. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
