@@ -1,6 +1,6 @@
 # Trends of Summer 2023
 
-> Last updated at 9/29/2023, 12:58:29 AM
+> Last updated at 9/30/2023, 12:56:58 AM
 
 ## Wilson
 
@@ -12,8 +12,8 @@
 6. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 7. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 8. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
-9. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
-10. [Sugar Apple Fairy Tale Part 2](https://kitsu.io/anime/sugar-apple-fairy-tale-season-2)
+9. [Sugar Apple Fairy Tale Part 2](https://kitsu.io/anime/sugar-apple-fairy-tale-season-2)
+10. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
 
 ## Laplace
 
@@ -25,8 +25,8 @@
 6. [Horimiya -piece-](https://kitsu.io/anime/horimiya-piece)
 7. [Watashi no Shiawase na Kekkon](https://kitsu.io/anime/watashi-no-shiawase-na-kekkon)
 8. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
-9. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
-10. [Sugar Apple Fairy Tale Part 2](https://kitsu.io/anime/sugar-apple-fairy-tale-season-2)
+9. [Sugar Apple Fairy Tale Part 2](https://kitsu.io/anime/sugar-apple-fairy-tale-season-2)
+10. [Shinigami Bocchan to Kuro Maid Season 2](https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2)
 
 ## Upvotes
 
@@ -39,7 +39,7 @@
 7. [Bungou Stray Dogs 5th Season](https://kitsu.io/anime/bungou-stray-dogs-5)
 8. [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou](https://kitsu.io/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou)
 9. [Masamune-kun no Revenge R](https://kitsu.io/anime/masamune-kun-no-revenge-r)
-10. [Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi](https://kitsu.io/anime/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi)
+10. [Undead Girl Murder Farce](https://kitsu.io/anime/undead-girl-murder-farce)
 
 ## Rated
 
