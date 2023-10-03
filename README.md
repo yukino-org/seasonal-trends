@@ -1,6 +1,6 @@
 # Trends of Autumn 2023
 
-> Last updated at 10/2/2023, 12:59:16 AM
+> Last updated at 10/3/2023, 12:59:00 AM
 
 ## Wilson
 
@@ -23,10 +23,10 @@
 4. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
 5. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
 6. [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season)
-7. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
-8. [Arifureta Shokugyou de Sekai Saikyou 3rd Season](https://kitsu.io/anime/arifureta-shokugyou-de-sekai-saikyou-3rd-season)
-9. [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season 2](https://kitsu.io/anime/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-2)
-10. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
+7. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
+8. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
+9. [Ragna Crimson](https://kitsu.io/anime/ragna-crimson)
+10. [Arifureta Shokugyou de Sekai Saikyou 3rd Season](https://kitsu.io/anime/arifureta-shokugyou-de-sekai-saikyou-3rd-season)
 
 ## Upvotes
 
@@ -34,12 +34,12 @@
 2. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
 3. [Dr.STONE: NEW WORLD Part 2](https://kitsu.io/anime/dr-stone-new-world-part-2)
 4. [SPY×FAMILY Season 2](https://kitsu.io/anime/spy-x-family-season-2)
-5. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
-6. [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season)
-7. [Arifureta Shokugyou de Sekai Saikyou 3rd Season](https://kitsu.io/anime/arifureta-shokugyou-de-sekai-saikyou-3rd-season)
-8. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
-9. [Ragna Crimson](https://kitsu.io/anime/ragna-crimson)
-10. [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season 2](https://kitsu.io/anime/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-2)
+5. [Ragna Crimson](https://kitsu.io/anime/ragna-crimson)
+6. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
+7. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
+8. [Boushoku no Berserk](https://kitsu.io/anime/boushoku-no-berserk)
+9. [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season)
+10. [Arifureta Shokugyou de Sekai Saikyou 3rd Season](https://kitsu.io/anime/arifureta-shokugyou-de-sekai-saikyou-3rd-season)
 
 ## Rated
 
@@ -52,7 +52,7 @@
 7. [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season 2](https://kitsu.io/anime/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-2)
 8. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
 9. [Buta no Liver wa Kanetsu Shiro](https://kitsu.io/anime/buta-no-liver-wa-kanetsu-shiro)
-10. [Saihate no Paladin: Tetsusabi no Yama no Ou](https://kitsu.io/anime/saihate-no-paladin-2)
+10. [Migi to Dali](https://kitsu.io/anime/migi-to-dali)
 
 ## Users
 
@@ -65,4 +65,4 @@
 7. [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season 2](https://kitsu.io/anime/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-2)
 8. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
 9. [Buta no Liver wa Kanetsu Shiro](https://kitsu.io/anime/buta-no-liver-wa-kanetsu-shiro)
-10. [Saihate no Paladin: Tetsusabi no Yama no Ou](https://kitsu.io/anime/saihate-no-paladin-2)
+10. [Migi to Dali](https://kitsu.io/anime/migi-to-dali)
