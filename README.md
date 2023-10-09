@@ -1,43 +1,43 @@
 # Trends of Autumn 2023
 
-> Last updated at 10/8/2023, 1:02:35 AM
+> Last updated at 10/9/2023, 12:58:45 AM
 
 ## Wilson
 
-1. [Dr.STONE: NEW WORLD Part 2](https://kitsu.io/anime/dr-stone-new-world-part-2)
-2. [SPY×FAMILY Season 2](https://kitsu.io/anime/spy-x-family-season-2)
+1. [SPY×FAMILY Season 2](https://kitsu.io/anime/spy-x-family-season-2)
+2. [Dr.STONE: NEW WORLD Part 2](https://kitsu.io/anime/dr-stone-new-world-part-2)
 3. [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season)
-4. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
-5. [Tate no Yuusha no Nariagari Season 3](https://kitsu.io/anime/tate-no-yuusha-no-nariagari-3)
+4. [Tate no Yuusha no Nariagari Season 3](https://kitsu.io/anime/tate-no-yuusha-no-nariagari-3)
+5. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
 6. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
 7. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
 8. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
-9. [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season 2](https://kitsu.io/anime/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-2)
-10. [Mahoutsukai no Yome SEASON 2 Part 2](https://kitsu.io/anime/mahoutsukai-no-yome-season-2-part-2)
+9. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
+10. [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season 2](https://kitsu.io/anime/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-2)
 
 ## Laplace
 
 1. [SPY×FAMILY Season 2](https://kitsu.io/anime/spy-x-family-season-2)
 2. [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season)
 3. [Dr.STONE: NEW WORLD Part 2](https://kitsu.io/anime/dr-stone-new-world-part-2)
-4. [Tate no Yuusha no Nariagari Season 3](https://kitsu.io/anime/tate-no-yuusha-no-nariagari-3)
-5. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
+4. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
+5. [Tate no Yuusha no Nariagari Season 3](https://kitsu.io/anime/tate-no-yuusha-no-nariagari-3)
 6. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
 7. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
 8. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
-9. [Ragna Crimson](https://kitsu.io/anime/ragna-crimson)
-10. [Watashi no Oshi wa Akuyaku Reijou.](https://kitsu.io/anime/watashi-no-oshi-wa-akuyaku-reijou)
+9. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
+10. [Ragna Crimson](https://kitsu.io/anime/ragna-crimson)
 
 ## Upvotes
 
 1. [Tate no Yuusha no Nariagari Season 3](https://kitsu.io/anime/tate-no-yuusha-no-nariagari-3)
-2. [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season)
-3. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
-4. [SPY×FAMILY Season 2](https://kitsu.io/anime/spy-x-family-season-2)
+2. [SPY×FAMILY Season 2](https://kitsu.io/anime/spy-x-family-season-2)
+3. [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season)
+4. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
 5. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
 6. [Ragna Crimson](https://kitsu.io/anime/ragna-crimson)
-7. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
-8. [Boushoku no Berserk](https://kitsu.io/anime/boushoku-no-berserk)
+7. [Boushoku no Berserk](https://kitsu.io/anime/boushoku-no-berserk)
+8. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
 9. [Watashi no Oshi wa Akuyaku Reijou.](https://kitsu.io/anime/watashi-no-oshi-wa-akuyaku-reijou)
 10. [Dr.STONE: NEW WORLD Part 2](https://kitsu.io/anime/dr-stone-new-world-part-2)
 
