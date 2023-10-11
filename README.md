@@ -1,6 +1,6 @@
 # Trends of Autumn 2023
 
-> Last updated at 10/10/2023, 12:58:13 AM
+> Last updated at 10/11/2023, 12:58:11 AM
 
 ## Wilson
 
@@ -8,12 +8,12 @@
 2. [Dr.STONE: NEW WORLD Part 2](https://kitsu.io/anime/dr-stone-new-world-part-2)
 3. [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season)
 4. [Tate no Yuusha no Nariagari Season 3](https://kitsu.io/anime/tate-no-yuusha-no-nariagari-3)
-5. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
-6. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
+5. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
+6. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
 7. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
 8. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
-9. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
-10. [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season 2](https://kitsu.io/anime/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-2)
+9. [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://kitsu.io/anime/kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-nin-no-kanojo)
+10. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
 
 ## Laplace
 
@@ -25,8 +25,8 @@
 6. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
 7. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
 8. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
-9. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
-10. [Ragna Crimson](https://kitsu.io/anime/ragna-crimson)
+9. [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://kitsu.io/anime/kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-nin-no-kanojo)
+10. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
 
 ## Upvotes
 
@@ -36,10 +36,10 @@
 4. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
 5. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
 6. [Boushoku no Berserk](https://kitsu.io/anime/boushoku-no-berserk)
-7. [Ragna Crimson](https://kitsu.io/anime/ragna-crimson)
-8. [Watashi no Oshi wa Akuyaku Reijou.](https://kitsu.io/anime/watashi-no-oshi-wa-akuyaku-reijou)
+7. [Watashi no Oshi wa Akuyaku Reijou.](https://kitsu.io/anime/watashi-no-oshi-wa-akuyaku-reijou)
+8. [Ragna Crimson](https://kitsu.io/anime/ragna-crimson)
 9. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
-10. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
+10. [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://kitsu.io/anime/kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-nin-no-kanojo)
 
 ## Rated
 
