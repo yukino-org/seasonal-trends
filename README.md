@@ -1,6 +1,6 @@
 # Trends of Autumn 2023
 
-> Last updated at 10/19/2023, 12:58:41 AM
+> Last updated at 10/20/2023, 12:58:40 AM
 
 ## Wilson
 
@@ -37,9 +37,9 @@
 5. [Dr. STONE: NEW WORLD Part 2](https://kitsu.io/anime/dr-stone-new-world-part-2)
 6. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
 7. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
-8. [Boushoku no Berserk](https://kitsu.io/anime/boushoku-no-berserk)
-9. [Hametsu no Oukoku](https://kitsu.io/anime/hametsu-no-oukoku)
-10. [Ragna Crimson](https://kitsu.io/anime/ragna-crimson)
+8. [Ragna Crimson](https://kitsu.io/anime/ragna-crimson)
+9. [Boushoku no Berserk](https://kitsu.io/anime/boushoku-no-berserk)
+10. [Hametsu no Oukoku](https://kitsu.io/anime/hametsu-no-oukoku)
 
 ## Rated
 
