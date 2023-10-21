@@ -1,6 +1,6 @@
 # Trends of Autumn 2023
 
-> Last updated at 10/20/2023, 12:58:40 AM
+> Last updated at 10/21/2023, 12:56:57 AM
 
 ## Wilson
 
@@ -18,11 +18,11 @@
 ## Laplace
 
 1. [SPY×FAMILY Season 2](https://kitsu.io/anime/spy-x-family-season-2)
-2. [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season)
-3. [Dr. STONE: NEW WORLD Part 2](https://kitsu.io/anime/dr-stone-new-world-part-2)
+2. [Dr. STONE: NEW WORLD Part 2](https://kitsu.io/anime/dr-stone-new-world-part-2)
+3. [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season)
 4. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
-5. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
-6. [Tate no Yuusha no Nariagari Season 3](https://kitsu.io/anime/tate-no-yuusha-no-nariagari-3)
+5. [Tate no Yuusha no Nariagari Season 3](https://kitsu.io/anime/tate-no-yuusha-no-nariagari-3)
+6. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
 7. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
 8. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
 9. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
@@ -38,8 +38,8 @@
 6. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
 7. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
 8. [Ragna Crimson](https://kitsu.io/anime/ragna-crimson)
-9. [Boushoku no Berserk](https://kitsu.io/anime/boushoku-no-berserk)
-10. [Hametsu no Oukoku](https://kitsu.io/anime/hametsu-no-oukoku)
+9. [Hametsu no Oukoku](https://kitsu.io/anime/hametsu-no-oukoku)
+10. [Boushoku no Berserk](https://kitsu.io/anime/boushoku-no-berserk)
 
 ## Rated
 
