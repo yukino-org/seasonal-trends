@@ -1,6 +1,6 @@
 # Trends of Autumn 2023
 
-> Last updated at 10/22/2023, 1:02:49 AM
+> Last updated at 10/23/2023, 12:59:03 AM
 
 ## Wilson
 
@@ -11,9 +11,9 @@
 5. [Tate no Yuusha no Nariagari Season 3](https://kitsu.io/anime/tate-no-yuusha-no-nariagari-3)
 6. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
 7. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
-8. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
-9. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
-10. [Ragna Crimson](https://kitsu.io/anime/ragna-crimson)
+8. [Kusuriya no Hitorigoto](https://kitsu.io/anime/kusuriya-no-hitorigoto)
+9. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
+10. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
 
 ## Laplace
 
@@ -26,7 +26,7 @@
 7. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
 8. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
 9. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
-10. [Ragna Crimson](https://kitsu.io/anime/ragna-crimson)
+10. [Kusuriya no Hitorigoto](https://kitsu.io/anime/kusuriya-no-hitorigoto)
 
 ## Upvotes
 
@@ -38,8 +38,8 @@
 6. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
 7. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
 8. [Hametsu no Oukoku](https://kitsu.io/anime/hametsu-no-oukoku)
-9. [Ragna Crimson](https://kitsu.io/anime/ragna-crimson)
-10. [Boushoku no Berserk](https://kitsu.io/anime/boushoku-no-berserk)
+9. [Boushoku no Berserk](https://kitsu.io/anime/boushoku-no-berserk)
+10. [Ragna Crimson](https://kitsu.io/anime/ragna-crimson)
 
 ## Rated
 
