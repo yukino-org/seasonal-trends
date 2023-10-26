@@ -1,6 +1,6 @@
 # Trends of Autumn 2023
 
-> Last updated at 10/25/2023, 12:58:34 AM
+> Last updated at 10/26/2023, 12:57:27 AM
 
 ## Wilson
 
@@ -8,9 +8,9 @@
 2. [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season)
 3. [Dr. STONE: NEW WORLD Part 2](https://kitsu.io/anime/dr-stone-new-world-part-2)
 4. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
-5. [Tate no Yuusha no Nariagari Season 3](https://kitsu.io/anime/tate-no-yuusha-no-nariagari-3)
-6. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
-7. [Kusuriya no Hitorigoto](https://kitsu.io/anime/kusuriya-no-hitorigoto)
+5. [Kusuriya no Hitorigoto](https://kitsu.io/anime/kusuriya-no-hitorigoto)
+6. [Tate no Yuusha no Nariagari Season 3](https://kitsu.io/anime/tate-no-yuusha-no-nariagari-3)
+7. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
 8. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
 9. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
 10. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
@@ -21,8 +21,8 @@
 2. [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season)
 3. [Dr. STONE: NEW WORLD Part 2](https://kitsu.io/anime/dr-stone-new-world-part-2)
 4. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
-5. [Tate no Yuusha no Nariagari Season 3](https://kitsu.io/anime/tate-no-yuusha-no-nariagari-3)
-6. [Kusuriya no Hitorigoto](https://kitsu.io/anime/kusuriya-no-hitorigoto)
+5. [Kusuriya no Hitorigoto](https://kitsu.io/anime/kusuriya-no-hitorigoto)
+6. [Tate no Yuusha no Nariagari Season 3](https://kitsu.io/anime/tate-no-yuusha-no-nariagari-3)
 7. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
 8. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
 9. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
@@ -38,8 +38,8 @@
 6. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
 7. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
 8. [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://kitsu.io/anime/kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-nin-no-kanojo)
-9. [Hametsu no Oukoku](https://kitsu.io/anime/hametsu-no-oukoku)
-10. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
+9. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
+10. [Hametsu no Oukoku](https://kitsu.io/anime/hametsu-no-oukoku)
 
 ## Rated
 
