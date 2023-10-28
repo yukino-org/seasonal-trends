@@ -1,19 +1,19 @@
 # Trends of Autumn 2023
 
-> Last updated at 10/27/2023, 12:57:42 AM
+> Last updated at 10/28/2023, 12:56:32 AM
 
 ## Wilson
 
 1. [SPY×FAMILY Season 2](https://kitsu.io/anime/spy-x-family-season-2)
-2. [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season)
-3. [Dr. STONE: NEW WORLD Part 2](https://kitsu.io/anime/dr-stone-new-world-part-2)
+2. [Dr. STONE: NEW WORLD Part 2](https://kitsu.io/anime/dr-stone-new-world-part-2)
+3. [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season)
 4. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
 5. [Kusuriya no Hitorigoto](https://kitsu.io/anime/kusuriya-no-hitorigoto)
 6. [Tate no Yuusha no Nariagari Season 3](https://kitsu.io/anime/tate-no-yuusha-no-nariagari-3)
 7. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
 8. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
-9. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
-10. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
+9. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
+10. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
 
 ## Laplace
 
@@ -36,9 +36,9 @@
 4. [Dr. STONE: NEW WORLD Part 2](https://kitsu.io/anime/dr-stone-new-world-part-2)
 5. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
 6. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
-7. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
+7. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
 8. [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://kitsu.io/anime/kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-nin-no-kanojo)
-9. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
+9. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
 10. [Hametsu no Oukoku](https://kitsu.io/anime/hametsu-no-oukoku)
 
 ## Rated
