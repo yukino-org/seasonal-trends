@@ -1,6 +1,6 @@
 # Trends of Autumn 2023
 
-> Last updated at 10/29/2023, 1:02:04 AM
+> Last updated at 10/30/2023, 12:59:13 AM
 
 ## Wilson
 
@@ -37,8 +37,8 @@
 5. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
 6. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
 7. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
-8. [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://kitsu.io/anime/kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-nin-no-kanojo)
-9. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
+8. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
+9. [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://kitsu.io/anime/kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-nin-no-kanojo)
 10. [Hametsu no Oukoku](https://kitsu.io/anime/hametsu-no-oukoku)
 
 ## Rated
