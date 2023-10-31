@@ -1,6 +1,6 @@
 # Trends of Autumn 2023
 
-> Last updated at 10/30/2023, 12:59:13 AM
+> Last updated at 10/31/2023, 12:59:01 AM
 
 ## Wilson
 
@@ -12,20 +12,20 @@
 6. [Tate no Yuusha no Nariagari Season 3](https://kitsu.io/anime/tate-no-yuusha-no-nariagari-3)
 7. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
 8. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
-9. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
-10. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
+9. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
+10. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
 
 ## Laplace
 
 1. [SPY×FAMILY Season 2](https://kitsu.io/anime/spy-x-family-season-2)
-2. [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season)
+2. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
 3. [Dr. STONE: NEW WORLD Part 2](https://kitsu.io/anime/dr-stone-new-world-part-2)
-4. [Tokyo Revengers: Tenjiku-hen](https://kitsu.io/anime/tokyo-revengers-tenjikuhen)
+4. [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season)
 5. [Kusuriya no Hitorigoto](https://kitsu.io/anime/kusuriya-no-hitorigoto)
 6. [Tate no Yuusha no Nariagari Season 3](https://kitsu.io/anime/tate-no-yuusha-no-nariagari-3)
 7. [Goblin Slayer 2nd Season](https://kitsu.io/anime/goblin-slayer-2nd-season)
-8. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
-9. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
+8. [Undead Unluck](https://kitsu.io/anime/undead-unluck)
+9. [Shangri-La Frontier](https://kitsu.io/anime/shangri-la-frontier)
 10. [Seirei Gensouki 2](https://kitsu.io/anime/seirei-gensouki-2)
 
 ## Upvotes
